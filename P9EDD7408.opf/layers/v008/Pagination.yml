@@ -1,0 +1,6764 @@
+id: fbde11f484a14a7b806a47f907d90920
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  061a56b96c7e403ba5f64da955724ba2:
+    span:
+      start: 0
+      end: 26
+    metadata: {}
+    page_info: null
+    imgnum: 1
+    reference: null
+  e83f466a8a75455283f52350347b8e36:
+    span:
+      start: 28
+      end: 262
+    metadata: {}
+    page_info: null
+    imgnum: 2
+    reference: null
+  29108012db274561914d278b41498167:
+    span:
+      start: 264
+      end: 648
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  1b3aa80a502c47b98a74d8ef470fd32e:
+    span:
+      start: 650
+      end: 1217
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  21165b40a7cf41369359f691a562a7d1:
+    span:
+      start: 1219
+      end: 1779
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  af48cbd0ceb4475eaa328fdf5ef993ea:
+    span:
+      start: 1781
+      end: 2802
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  14076eb5281f48e68c50e589027bc6e6:
+    span:
+      start: 2804
+      end: 3801
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  9f3ac42e0d5c410182734de8e67663a2:
+    span:
+      start: 3803
+      end: 4832
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  47cf6c78e000442688add05481503341:
+    span:
+      start: 4834
+      end: 5864
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  0ecb3795f97749df892a3b544f0040af:
+    span:
+      start: 5866
+      end: 6957
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  07adf1fad18b4c28845d5d4157fb63dd:
+    span:
+      start: 6959
+      end: 8000
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  d1564a7e66e2494f9c51a5e2ed38201f:
+    span:
+      start: 8002
+      end: 9063
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  502319f1a60f4a24bb078f6bbe3f6acc:
+    span:
+      start: 9065
+      end: 10096
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  e791121fe561462caa202faf754a2a78:
+    span:
+      start: 10098
+      end: 11143
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  b3deb62cc8a34efe9732b24567ab7cc3:
+    span:
+      start: 11145
+      end: 12175
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  b1aee565935040278fb58b813872f25d:
+    span:
+      start: 12177
+      end: 13308
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  40ccee1ff34244c98aadf03a24bd5114:
+    span:
+      start: 13310
+      end: 14369
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  baec5d0b95df40759a284e62a7c4263e:
+    span:
+      start: 14371
+      end: 15409
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  52cd182f64ee4746a002e54189ea6e69:
+    span:
+      start: 15411
+      end: 16396
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  2ed246e1f25a4519bafa1c64ff300117:
+    span:
+      start: 16398
+      end: 17414
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  557095fcb7f24cc2b71ac39c237452f7:
+    span:
+      start: 17416
+      end: 18424
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  c038ec70a0f34df4bddb235886175d16:
+    span:
+      start: 18426
+      end: 19380
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  b2c167e0eb2849039a8a4f2eb7436218:
+    span:
+      start: 19382
+      end: 20391
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  916b20eb4e0f42e0a266208dc7a6c42a:
+    span:
+      start: 20393
+      end: 21416
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  e3b247f2adc04ae7933f0f311da2fc5e:
+    span:
+      start: 21418
+      end: 22390
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  b85d340136834ceeafc4166ba55728ea:
+    span:
+      start: 22392
+      end: 23376
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  f074359105b34da795adc14f081dd383:
+    span:
+      start: 23378
+      end: 24329
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  30d9002f47d44f26a3872c4fb76f6ed4:
+    span:
+      start: 24331
+      end: 25382
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  8914005e7eef4c1689872bcb24d4c786:
+    span:
+      start: 25384
+      end: 26352
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  5333eea7e5634ab7ae41f91c24eaf4a2:
+    span:
+      start: 26354
+      end: 27377
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  8d44e7b55c704c17b1512557aa5f89af:
+    span:
+      start: 27379
+      end: 28406
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  4601cb411c044b9f85766dcff494db7d:
+    span:
+      start: 28408
+      end: 29472
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  0b1eed1086d84888998e1dc24505d01c:
+    span:
+      start: 29474
+      end: 30558
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  cd9f94586d144573964ae0b2a0fd81a2:
+    span:
+      start: 30560
+      end: 31581
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  6308b6ab311c4ba2b0c185c56b47e783:
+    span:
+      start: 31583
+      end: 32536
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  16e25f6e3df643a1ab3112f9cdcead96:
+    span:
+      start: 32538
+      end: 33553
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  408f43fcfca44408a82f115946fa9af2:
+    span:
+      start: 33555
+      end: 34526
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  0a72bb95c2a047479511b1b0bef9ccad:
+    span:
+      start: 34528
+      end: 35496
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  c51fd78358954aa2be54e5e312c89a3f:
+    span:
+      start: 35498
+      end: 36462
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  3001b0eb40f24a669bc6751b027faa4c:
+    span:
+      start: 36464
+      end: 37478
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  0b192602a89b44eaadf548347023b365:
+    span:
+      start: 37480
+      end: 38468
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  8e0d710715fc494f8387142f79d4fc82:
+    span:
+      start: 38470
+      end: 39466
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  09d2e28fd8b14b8ebffe9f6b25b4f936:
+    span:
+      start: 39468
+      end: 40404
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  4bd4a424009a40b8b54436be549caac4:
+    span:
+      start: 40406
+      end: 41404
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  461036b3658a4ee5be227d03bd8101c6:
+    span:
+      start: 41406
+      end: 42373
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  1963a41c141f4beb81e6a2d76addd617:
+    span:
+      start: 42375
+      end: 43381
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  d8f1fd9453c24ad0a5a6ebb78fd54b91:
+    span:
+      start: 43383
+      end: 44307
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  f61a604f65e44904b401255c25f62359:
+    span:
+      start: 44309
+      end: 45309
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  528758c2d9e049ddbbb5d5388efe3045:
+    span:
+      start: 45311
+      end: 46319
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  c75aed284bf34e7eb8ce40832fe63ab0:
+    span:
+      start: 46321
+      end: 47359
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  cc7a313d76a14f2f9fbdc38a51fcae84:
+    span:
+      start: 47361
+      end: 48353
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  bd126d6266c2458c940cd91d774e3dca:
+    span:
+      start: 48355
+      end: 49347
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  351df122536b4bb1b1df5db507c82904:
+    span:
+      start: 49349
+      end: 50308
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  8d3cac32852c4577bfe5b24d28624ddb:
+    span:
+      start: 50310
+      end: 51298
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  7f1e4fe7c0e14a0ba4456e0962f16898:
+    span:
+      start: 51300
+      end: 52251
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  5795bdbeb46844fd979852bc9408182c:
+    span:
+      start: 52253
+      end: 53175
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  025c4d195ef845dfa8b9260c8ef56441:
+    span:
+      start: 53177
+      end: 54148
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  b7756ddd9df34a3ab637699d534a0b00:
+    span:
+      start: 54150
+      end: 55140
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  407e2755fd744159a45a0810b701dfd6:
+    span:
+      start: 55142
+      end: 56105
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  d980e5268efc4a7d86f40f3d5ef6e745:
+    span:
+      start: 56107
+      end: 57112
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  da26a160e31c4fccab0d714bcb130014:
+    span:
+      start: 57114
+      end: 58112
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  1728bc3ca5d34e60a7df18e93bf35260:
+    span:
+      start: 58114
+      end: 59168
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  2933ca3e7daa416db3d16b14d57d27a4:
+    span:
+      start: 59170
+      end: 60165
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  9450c26e714d44a2b7775dc594f7b6f1:
+    span:
+      start: 60167
+      end: 61211
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  8a96da0686744b6e8b8ec9bfcbacb508:
+    span:
+      start: 61213
+      end: 62216
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  16f07573db8047889ff64f5d2cd780e0:
+    span:
+      start: 62218
+      end: 63260
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  fdca791013224f649e733a84c962ef9e:
+    span:
+      start: 63262
+      end: 64263
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  56cee0ef816e4f1988959a19d8486c34:
+    span:
+      start: 64265
+      end: 65233
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  77429d8f98fa414dac5503153bdc6117:
+    span:
+      start: 65235
+      end: 66221
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  067ed421c10441eea969d5448ee5bf33:
+    span:
+      start: 66223
+      end: 67217
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  d340770a6a344880b6b3800494405d04:
+    span:
+      start: 67219
+      end: 68204
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  d0479b7bccd44ccfaa888310840edd85:
+    span:
+      start: 68206
+      end: 69273
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  fd28324409ea4b678d7fac2de68ca0e4:
+    span:
+      start: 69275
+      end: 70325
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  cc1e75a49bef4e7aa0ed2e874a1fa266:
+    span:
+      start: 70327
+      end: 71236
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  d98e8350b66040329fbd1a7c540bfd82:
+    span:
+      start: 71238
+      end: 72205
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  abe58046d13744c8ad34d027ce5afe43:
+    span:
+      start: 72207
+      end: 73163
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  fa27ed307a9d457ea8c344fa3ed53783:
+    span:
+      start: 73165
+      end: 74116
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  2adf0df3bfb64ce1a553f8cf967bda76:
+    span:
+      start: 74118
+      end: 75091
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  7ed3c42991d348d78a4c5701965dbc5c:
+    span:
+      start: 75093
+      end: 76059
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  5d5839855137400d8d2daf36bd89af2c:
+    span:
+      start: 76061
+      end: 77015
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  1f96e54b3bb04859ab53d6efc920f69e:
+    span:
+      start: 77017
+      end: 78023
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  cd892e7b04d14c5b88f9164fceffc3a7:
+    span:
+      start: 78025
+      end: 79119
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  3f3593d444234c2783d08c044c0c5b51:
+    span:
+      start: 79121
+      end: 80145
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  fe20f63874344f2594aef5aa11a58ed4:
+    span:
+      start: 80147
+      end: 81191
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  51f7247f593147e9b089c35e451c72e4:
+    span:
+      start: 81193
+      end: 82228
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  2eb9310397474f7880d9c40e0f7d11cb:
+    span:
+      start: 82230
+      end: 83234
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  f0d1e770da3843a1bb4a4d3dee9ece78:
+    span:
+      start: 83236
+      end: 84285
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  3b4a3b5d9df74945a92ebea689b84f24:
+    span:
+      start: 84287
+      end: 85254
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  44e825d1012f4e6e8349613329973d39:
+    span:
+      start: 85256
+      end: 86230
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  f09e5c6d92a94fad85f596ba67260bcc:
+    span:
+      start: 86232
+      end: 87218
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  61e0bd83e9bc4675a3cf33e0aa562276:
+    span:
+      start: 87220
+      end: 88185
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  c952f4c9a15742ecbbab04420bd77a37:
+    span:
+      start: 88187
+      end: 89139
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  ba00bca1a2ef41ea89fd6f4c3e9f592c:
+    span:
+      start: 89141
+      end: 90056
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  a996637f975a4ff2af4c23e96fe95530:
+    span:
+      start: 90058
+      end: 91031
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  5ef35fa5dc0a4be6bd397beb155d57e9:
+    span:
+      start: 91033
+      end: 92034
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  9328afa0e43b4d42b8ed91e5312cf9fb:
+    span:
+      start: 92036
+      end: 93090
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  feec7d8d8249454f9a04a119d6ddd5b6:
+    span:
+      start: 93092
+      end: 94126
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  72a4c63fb81d46fcb0a24345890652c1:
+    span:
+      start: 94128
+      end: 95226
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  63116efe0fa94bff9c942217930b6790:
+    span:
+      start: 95228
+      end: 96215
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  cb2f3bac46ca47f390a44fb7cf525975:
+    span:
+      start: 96217
+      end: 97234
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  13870edaa2f640468a584946217ad4ba:
+    span:
+      start: 97236
+      end: 98260
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  426b822b83ef486ba9a725bc21fecc65:
+    span:
+      start: 98262
+      end: 99326
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  f271c17f75624123a1e827ed322a6ddb:
+    span:
+      start: 99328
+      end: 100318
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  13bd37abf79746eeadd2981abe8af054:
+    span:
+      start: 100320
+      end: 101372
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  c634e95790234e319f9be19fdf5283ff:
+    span:
+      start: 101374
+      end: 102399
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  ac5cdbacf0b742fcb97963408b365964:
+    span:
+      start: 102401
+      end: 103409
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  2db1c0a3d7bd463299a9d5450829c470:
+    span:
+      start: 103411
+      end: 104505
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  dd7c036efc274100849ebc8343617b56:
+    span:
+      start: 104507
+      end: 105566
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  094145489e724401b9efca4b9569bb41:
+    span:
+      start: 105568
+      end: 106655
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  e279bb106f6f41f1845e2b4d1b25f8d7:
+    span:
+      start: 106657
+      end: 107723
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  c7024f0541e24635bfc3a533bf29f7ef:
+    span:
+      start: 107725
+      end: 108771
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  0a3f4d603fd046d886ff6d9c97332ea0:
+    span:
+      start: 108773
+      end: 109721
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  ae09bf859a7e46a6bd8de94702142053:
+    span:
+      start: 109723
+      end: 110744
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  46bb28c6a93547cd9361d5b9143a6512:
+    span:
+      start: 110746
+      end: 111785
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  c170c20404ae4d0bb7dcdfde23772929:
+    span:
+      start: 111787
+      end: 112826
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  dd034af4bd44488186f1aef853f74099:
+    span:
+      start: 112828
+      end: 113893
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  49f4bb87f0194a3982f5b26505a257f9:
+    span:
+      start: 113895
+      end: 114984
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  41ea02d35f70468abfa0d7d230b4efef:
+    span:
+      start: 114986
+      end: 116035
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  bf2431f61dce43749d415290ddff0d3f:
+    span:
+      start: 116037
+      end: 117123
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  17e9357b5b3b43bebc6b224996864a48:
+    span:
+      start: 117125
+      end: 118228
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  8627a4e784c548c388efd05499a4fc1d:
+    span:
+      start: 118230
+      end: 119283
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  d1b58d9c03d6403485b7beeb75561fc9:
+    span:
+      start: 119285
+      end: 120376
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  2269e0bd53c14e6cb04f8520ff92d5a9:
+    span:
+      start: 120378
+      end: 121452
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  b32958e06cdd43638dfaa46eb2e24f43:
+    span:
+      start: 121454
+      end: 122547
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  c1dc8899dd8f4779849c75b471daf334:
+    span:
+      start: 122549
+      end: 123559
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  61f444085da841159b19465336580e88:
+    span:
+      start: 123561
+      end: 124610
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  e2010468daa54b69ada45d8b6a580602:
+    span:
+      start: 124612
+      end: 125641
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  e237f9fbf9b44026a4e1b3232114c1eb:
+    span:
+      start: 125643
+      end: 126774
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  bce9f4293851400bbf1309c71b8eef03:
+    span:
+      start: 126776
+      end: 127837
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  bea9a579e2ec4b21b98445023b76de4e:
+    span:
+      start: 127839
+      end: 128888
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  24c489af1a3545dd8cff5ebc19dfb355:
+    span:
+      start: 128890
+      end: 129918
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  9be1d5b3f24546e0a07a0b9fc434ec51:
+    span:
+      start: 129920
+      end: 131002
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  e0cdcb2291484ba391983ace177c5ac4:
+    span:
+      start: 131004
+      end: 132081
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  d820085fc7d8464aa5ffec1102604226:
+    span:
+      start: 132083
+      end: 133118
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  1698a72fd799432385b8b943977318d8:
+    span:
+      start: 133120
+      end: 134135
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  280a633414ce4541aa932a5d86d06cb4:
+    span:
+      start: 134137
+      end: 135163
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  6b0717123b8e4f2ca4601915fa1d364a:
+    span:
+      start: 135165
+      end: 136201
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  75b21fcd39e54b849f8492c4b715fa82:
+    span:
+      start: 136203
+      end: 137206
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  942723a2109d46718aece2ca9a1bd9c9:
+    span:
+      start: 137208
+      end: 138233
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  817f363241c3440e9dade795d583369f:
+    span:
+      start: 138235
+      end: 139261
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  df72cf1eee4c47938772a78935f22f1d:
+    span:
+      start: 139263
+      end: 140304
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  39f9302c4fad47b7a32f4cd2c3cdcdd4:
+    span:
+      start: 140306
+      end: 141332
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  438c64d583cc48e58050e3f44da4a0b9:
+    span:
+      start: 141334
+      end: 142343
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  7d9c022b3cbd4dc99f7612b2a8c7c45b:
+    span:
+      start: 142345
+      end: 143405
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  523ef46ee02a40468ccd61e17d85a99a:
+    span:
+      start: 143407
+      end: 144437
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  9f43e8fffddc46b59ff6b4088618e60b:
+    span:
+      start: 144439
+      end: 145546
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  9fca78018ea44947973e372b75d90f0b:
+    span:
+      start: 145548
+      end: 146622
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  cf3934b236a3425a90c36e1ccf40004e:
+    span:
+      start: 146624
+      end: 147708
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  60bea6581d014d80b9353fffe0584dd5:
+    span:
+      start: 147710
+      end: 148792
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  8951c022ecd8432185c2c7e9eecff5c9:
+    span:
+      start: 148794
+      end: 149858
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  cde6211b692f478f9954fa3e16fa173e:
+    span:
+      start: 149860
+      end: 150909
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  f26f293c9e484dbca32b2780149e0151:
+    span:
+      start: 150911
+      end: 151917
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  756088f5b5a54d6f8dc2f8c8fec0f6dc:
+    span:
+      start: 151919
+      end: 152975
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  9433b6662b4a4d90ac50218b576ea109:
+    span:
+      start: 152977
+      end: 154061
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  7a7cf8157dc24c95bd20c59f1032c581:
+    span:
+      start: 154063
+      end: 155129
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  7a3fca472d00410a9207ac1655475b23:
+    span:
+      start: 155131
+      end: 156259
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  859341ac6e1645ccb88bfb1787f308d2:
+    span:
+      start: 156261
+      end: 157357
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  e9a3d3c931f94afeb7e48e15a2630126:
+    span:
+      start: 157359
+      end: 158454
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  dff7c1e330db47f4a23f53ee56a81925:
+    span:
+      start: 158456
+      end: 159564
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  2193238ae9c04e5d8653d1083d364142:
+    span:
+      start: 159566
+      end: 160727
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  92a711233e4e4a5fbdc42ae9f7ca7cc4:
+    span:
+      start: 160729
+      end: 161859
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  995d823ee4644d5393cda42e56c4407e:
+    span:
+      start: 161861
+      end: 162931
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  86efc9b78c5b4ace92d80f3d7b566a78:
+    span:
+      start: 162933
+      end: 164029
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  7471bad13ea140f382281cc2f79d16b1:
+    span:
+      start: 164031
+      end: 165172
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  53dd18908816441591fb0fd1bd95afdc:
+    span:
+      start: 165174
+      end: 166265
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  c01c699c18b649ba9cebee5a7e9a7cca:
+    span:
+      start: 166267
+      end: 167366
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  016849f6e37f4f56bb50488ff974ed40:
+    span:
+      start: 167368
+      end: 168461
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  8eaf5628fa9e402c875a7a92c3350ede:
+    span:
+      start: 168463
+      end: 169544
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  2c9a4c7f3e724717a8db744de6326c13:
+    span:
+      start: 169546
+      end: 170662
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  bbf4814c91744617a88504c414b204dd:
+    span:
+      start: 170664
+      end: 171749
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  e7c1b04d84df429493c690cbb5ca98ac:
+    span:
+      start: 171751
+      end: 172803
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  04b8f53ebba74847927ff52a217a2c13:
+    span:
+      start: 172805
+      end: 173942
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  27ffb3a2bd434feda931e2f7611b1be4:
+    span:
+      start: 173944
+      end: 175085
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  699d7a2a81cb42ab86cf83d66f0e30ec:
+    span:
+      start: 175087
+      end: 176253
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  aba2bf23c84144d59aa864142f449854:
+    span:
+      start: 176255
+      end: 177347
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  e646ccded2344630a971323ab830337e:
+    span:
+      start: 177349
+      end: 178492
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  859cca9489e34f7dbe93f45adf86f470:
+    span:
+      start: 178494
+      end: 179455
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  5b259becb6a14f5f862ddb1b33d8a11e:
+    span:
+      start: 179457
+      end: 180450
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  d2f0c1b9b6c844d8973f31ffb0b8a67d:
+    span:
+      start: 180452
+      end: 181396
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  6f2de46c9c6f437abe0acd68854b2f45:
+    span:
+      start: 181398
+      end: 182278
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  49a7cd9d086e4ce6a3439187379f8899:
+    span:
+      start: 182280
+      end: 183224
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  a54555fe10b24e2a9a290277e2c4db1c:
+    span:
+      start: 183226
+      end: 184243
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  50b82ca31748414d89f52c47907118ec:
+    span:
+      start: 184245
+      end: 185251
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  129a0522c5024203ac4b5548058e3b56:
+    span:
+      start: 185253
+      end: 186267
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  950e7eddd71548d99be50c4d3f6b20c9:
+    span:
+      start: 186269
+      end: 187198
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  572d76bba7264689b42fc85595d81fde:
+    span:
+      start: 187200
+      end: 188151
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  76e1cb3bfe654a7787611c1160b3b67d:
+    span:
+      start: 188153
+      end: 189284
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  724f4695bdfa45db8a374545b8b32105:
+    span:
+      start: 189286
+      end: 190376
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  6178de8485cd48d089983df45d23e37e:
+    span:
+      start: 190378
+      end: 191418
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  cbb21a02a3324dfba9d2c1833d57da00:
+    span:
+      start: 191420
+      end: 192499
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  afa77a4962e84e7ea2ad194368d45c22:
+    span:
+      start: 192501
+      end: 193553
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  59c92f97f8474346ae9d35c1a223bade:
+    span:
+      start: 193555
+      end: 194667
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  4a309c15394f417e9887ccbb19e4155e:
+    span:
+      start: 194669
+      end: 195659
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  fb4ece4d5a0b485a8c21c59c4766917d:
+    span:
+      start: 195661
+      end: 196706
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  a507611542e54caab77e7822efee5d3b:
+    span:
+      start: 196708
+      end: 197730
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  d70c95be8b814921ac485bc7cf2e24cb:
+    span:
+      start: 197732
+      end: 198834
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  5633e6d5227d49fb83afc85491d45fc4:
+    span:
+      start: 198836
+      end: 199914
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  3aabbf6a95c84f68ba236442afead311:
+    span:
+      start: 199916
+      end: 200950
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  5e3d8abbb4f64f83895ca0421d9e6cca:
+    span:
+      start: 200952
+      end: 202022
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  3c8654194c194e6685455050306f65f3:
+    span:
+      start: 202024
+      end: 203047
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  fe7e051293054ef08f9ac6b0bf7a809b:
+    span:
+      start: 203049
+      end: 204092
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  5a828e712fb449768d9c02789e4f9623:
+    span:
+      start: 204094
+      end: 205223
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  ae8c147917ca4b78a6b05bc4f77571bf:
+    span:
+      start: 205225
+      end: 206323
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  7cec1946803248cb96e8a1354c2859ce:
+    span:
+      start: 206325
+      end: 207355
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  4356e53341654369ad08f0475e6522fc:
+    span:
+      start: 207357
+      end: 208450
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  f172bcace01045edadfa328d12f7a6e1:
+    span:
+      start: 208452
+      end: 209506
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  344d368392cc4a208a2aa2a55ad3f539:
+    span:
+      start: 209508
+      end: 210620
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  339d9314b90444b8b919f7534f163202:
+    span:
+      start: 210622
+      end: 211675
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  2f045d927975426a8c190ff20c9f5be5:
+    span:
+      start: 211677
+      end: 212788
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  ff819abd3f2247b7bdb80999f26593bb:
+    span:
+      start: 212790
+      end: 213950
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  7252ec890a9045f8b0099994ac6036d0:
+    span:
+      start: 213952
+      end: 215065
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  80e50a0d37dc452dab32105215c9648a:
+    span:
+      start: 215067
+      end: 216170
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  05ea8b752d4f4a338f65819fd15dc1f0:
+    span:
+      start: 216172
+      end: 217271
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  c910c07a0d6341d4a46bf0a192c0670c:
+    span:
+      start: 217273
+      end: 218350
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  db24bd4d243b4343a12ac48b32063147:
+    span:
+      start: 218352
+      end: 219434
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  2e050588c80c4a9d8056b3d0281ef6a6:
+    span:
+      start: 219436
+      end: 220449
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  67dc6accfbb24b2db432704fe47663f2:
+    span:
+      start: 220451
+      end: 221517
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  2a371d72e82e444fac94e82bdecab3d3:
+    span:
+      start: 221519
+      end: 222584
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  2bf65114d0bc43e1ac798648d30681b6:
+    span:
+      start: 222586
+      end: 223656
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  b4f7090a67a54c63b3c1a362062f7295:
+    span:
+      start: 223658
+      end: 224736
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  da81a515e5f24705b0411b83fc7c2dc8:
+    span:
+      start: 224738
+      end: 225853
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  90c4bb0c800d4a518784d7facb52b3c3:
+    span:
+      start: 225855
+      end: 226900
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  f0155e34f2f54e21b71774c5abe21c31:
+    span:
+      start: 226902
+      end: 227937
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  63a38620dae5448e8b9dcb0cefdab1b1:
+    span:
+      start: 227939
+      end: 229020
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  57d4dd9e1dd04e78b729b8b355cd218d:
+    span:
+      start: 229022
+      end: 230052
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  a10d838a61bd4c4bb3f0581b65ce00fe:
+    span:
+      start: 230054
+      end: 231110
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  4cedc15d7e104ff8bbe3a1b8e22a3fcf:
+    span:
+      start: 231112
+      end: 232158
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  e31070c0b3d242bca95214ee3eddb4f9:
+    span:
+      start: 232160
+      end: 233231
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  999dec9560e246c4ba52c504ed468137:
+    span:
+      start: 233233
+      end: 234305
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  27d8c88995fa4d0494f3f243c5f82319:
+    span:
+      start: 234307
+      end: 235402
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  3922b9ec8d024fb58e1ba03dbf09db92:
+    span:
+      start: 235404
+      end: 236397
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  f0ab8b1753a04f329343336e7967530f:
+    span:
+      start: 236399
+      end: 237477
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  b9374a577e484e1d88041efdac27f505:
+    span:
+      start: 237479
+      end: 238486
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  0a767f5b72d04b7b8ec73322fcca3c06:
+    span:
+      start: 238488
+      end: 239417
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  d2c85456b831425283e8c7325b4a21e9:
+    span:
+      start: 239419
+      end: 240365
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  d75ebf7e8d104741a63b384d5240d205:
+    span:
+      start: 240367
+      end: 241341
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  cfa39e076b9847369c915b16208f3bf0:
+    span:
+      start: 241343
+      end: 242312
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  d032bdc3371a403eb1d60a380a2b471d:
+    span:
+      start: 242314
+      end: 243301
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  c4f68e7394b54379974ada0ac37e745d:
+    span:
+      start: 243303
+      end: 244313
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  d32562ef1ed7421da46ac554e65b4836:
+    span:
+      start: 244315
+      end: 245333
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  f55525fef59e4aa79df772f58f5da735:
+    span:
+      start: 245335
+      end: 246398
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  199ea6f4edb445b6823cfaa6fa3f2d09:
+    span:
+      start: 246400
+      end: 247496
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  5a6d7d788b2c4244a6e46f031d07d83a:
+    span:
+      start: 247498
+      end: 248577
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  1e10e831f933431db941656f73214592:
+    span:
+      start: 248579
+      end: 249646
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  aaaac54dd5d344448b9a3bd527b47b6b:
+    span:
+      start: 249648
+      end: 250773
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  0508809d21704828bf128523412135ca:
+    span:
+      start: 250775
+      end: 251854
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  25b1f99e6239431fa47ade1c1e15a05e:
+    span:
+      start: 251856
+      end: 252950
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  e893f6887977455ea954eb637701dae7:
+    span:
+      start: 252952
+      end: 254052
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  02d7070434624d918aaf39b708f90836:
+    span:
+      start: 254054
+      end: 255152
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  39e583e2803348b39f01cd82feb982eb:
+    span:
+      start: 255154
+      end: 256293
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  cdec2a8d24ef4928b2266250199b46fb:
+    span:
+      start: 256295
+      end: 257351
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  fc3d56ace62e46d19b4f80d75c371075:
+    span:
+      start: 257353
+      end: 258441
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  f4b0382d56eb4f38b08de4fe7586d44e:
+    span:
+      start: 258443
+      end: 259426
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  9b7f8f02464840a0872ac526492e137f:
+    span:
+      start: 259428
+      end: 260467
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  1ee039e550ae40aeb1b41fbef7062341:
+    span:
+      start: 260469
+      end: 261479
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  ebfea28ee92442fea9520e34531182d6:
+    span:
+      start: 261481
+      end: 262525
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  3c94cb054c2e48ce82b2e430da634338:
+    span:
+      start: 262527
+      end: 263600
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  424a3c67339e45b28f73302cf42326c1:
+    span:
+      start: 263602
+      end: 264651
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  8d8ed9f0ed82455cbc9d91d68e42525f:
+    span:
+      start: 264653
+      end: 265696
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  308041c048d64666bf053d5863b65a4f:
+    span:
+      start: 265698
+      end: 266769
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  8ca0361c783c4d19ba4e0453697bda56:
+    span:
+      start: 266771
+      end: 267884
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  0448e6460d1646f0bbc0001b85b18839:
+    span:
+      start: 267886
+      end: 269074
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  7976ca4c51ec4b4992ed8a8c4901e889:
+    span:
+      start: 269076
+      end: 270160
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  5ca8f3d899024f5bbe8f71c3285f6256:
+    span:
+      start: 270162
+      end: 271236
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  e416a8e91f764061b0a889be9dae3255:
+    span:
+      start: 271238
+      end: 272351
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  ea64750968ec4d2bb4d395a699c4534d:
+    span:
+      start: 272353
+      end: 273426
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  3b448efc2d274171985dc95ba9f3fc6c:
+    span:
+      start: 273428
+      end: 274408
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  f77774b6ac9b44a0937715c5f31e7c20:
+    span:
+      start: 274410
+      end: 275335
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  f3b6083886594278b44305cd6bbeac13:
+    span:
+      start: 275337
+      end: 276254
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  9d5fff6fc57d4a198a660e0c998476ef:
+    span:
+      start: 276256
+      end: 277246
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  5afa30f1fe094f6ea5590b9952e3381c:
+    span:
+      start: 277248
+      end: 278322
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  9cdf2eb5fb714a0db932ad26a262d45c:
+    span:
+      start: 278324
+      end: 279348
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  927a16812e014b2b9547cd54386a6668:
+    span:
+      start: 279350
+      end: 280312
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  b7b5cdf3a12e4d54b7a47c35d7068764:
+    span:
+      start: 280314
+      end: 281248
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  b94f67accb334e85b75ba48fa042a82a:
+    span:
+      start: 281250
+      end: 282179
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  e7c16a99ba1f48afaa94a87aba0504f5:
+    span:
+      start: 282181
+      end: 283086
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  4bfbb167d7c6463f96ce2255c7c2b09d:
+    span:
+      start: 283088
+      end: 284125
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  6a9ee087934543e496c9da10fdba48d0:
+    span:
+      start: 284127
+      end: 285192
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  28c288c8b99f4635bf2a073327de6b6a:
+    span:
+      start: 285194
+      end: 286212
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  e4664783c73c4f7ba864aebb90f64b0c:
+    span:
+      start: 286214
+      end: 287241
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  1515408a7a5d4d5f9b6507c04e40f13f:
+    span:
+      start: 287243
+      end: 288334
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  40c2274e1dec49ed85337d9f6b2e01b3:
+    span:
+      start: 288336
+      end: 289383
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  5c718f3fd8594364851909e1c417ae9a:
+    span:
+      start: 289385
+      end: 290465
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  717b401d5c2848e38ea7ed1474e66306:
+    span:
+      start: 290467
+      end: 291527
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  d77c3d88cf1340a3931d16d0ca141a64:
+    span:
+      start: 291529
+      end: 292553
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  550602b3935740a9bacd20462892f387:
+    span:
+      start: 292555
+      end: 293561
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  20dc9ad71f114c0d830fbd01857753d5:
+    span:
+      start: 293563
+      end: 294636
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  48288a0d51a840ed91134b028548f020:
+    span:
+      start: 294638
+      end: 295687
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  ebece9a705b74a6fbe5da22f7554c0f7:
+    span:
+      start: 295689
+      end: 296716
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  4b4b372381f84df1a9c5d3adfb0a74a9:
+    span:
+      start: 296718
+      end: 297794
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  78412eafc54340fc96d877da1d76abf3:
+    span:
+      start: 297796
+      end: 298909
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  1df034c1ddfa4af8b13130d99c1f2015:
+    span:
+      start: 298911
+      end: 300015
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  6c345d18d04e4b29b2980797f17c3047:
+    span:
+      start: 300017
+      end: 301110
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  73387823f53c47dea778b0e5173afa20:
+    span:
+      start: 301112
+      end: 302146
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  62d945348b3a433ba9cc5450cf598fc3:
+    span:
+      start: 302148
+      end: 303214
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  341104cf96bb43ff84123048e80f35db:
+    span:
+      start: 303216
+      end: 304281
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  f3ce441fc9974a5c9c6d7a5bdc58f10f:
+    span:
+      start: 304283
+      end: 305284
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  a3ca03383de0440bb0793a47ee12ad40:
+    span:
+      start: 305286
+      end: 306263
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  db6cf9b0d7ef4576a66d8b7d3dfa31ae:
+    span:
+      start: 306265
+      end: 307295
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  35d90b741c894cad955382093b3c57fd:
+    span:
+      start: 307297
+      end: 308293
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  5028f26cda3c4a01b5f76ee61d153d28:
+    span:
+      start: 308295
+      end: 309282
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  53321764e1b04e7a8d33b57e350ff89a:
+    span:
+      start: 309284
+      end: 310264
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  e70e4854eb0d4793a23d9c809648b583:
+    span:
+      start: 310266
+      end: 311220
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  38091cd4bada40ec9456e56298d46606:
+    span:
+      start: 311222
+      end: 312221
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  c016a0ef96c048b3b6fe488da58af5be:
+    span:
+      start: 312223
+      end: 313162
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  9bd71792743b4077aaff57164687ed5f:
+    span:
+      start: 313164
+      end: 314133
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  703d5f19d43e4cfca2e76fada88c7a3c:
+    span:
+      start: 314135
+      end: 315107
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  450eb304abad4acebdb409305ac806ec:
+    span:
+      start: 315109
+      end: 316107
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  a1a8e2acd30544ffa6b41a727bab27ef:
+    span:
+      start: 316109
+      end: 317088
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  524e4395662f4495ad6af966c67a65e4:
+    span:
+      start: 317090
+      end: 318078
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  7a7444f8c93e428f85a4222d138c8b07:
+    span:
+      start: 318080
+      end: 319113
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  57fc2b49cece45faab8c106b05089970:
+    span:
+      start: 319115
+      end: 320127
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  079078eade30418bbd9350fbe5b1488e:
+    span:
+      start: 320129
+      end: 321085
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  84f9f95240834d50b24ca960120acbcf:
+    span:
+      start: 321087
+      end: 322053
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  6fa3f9d52c8549f392b77ea5c2f0166a:
+    span:
+      start: 322055
+      end: 323082
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  2737564a323444328c618b7e8f4ab50d:
+    span:
+      start: 323084
+      end: 324070
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  bbcddad361f6401bbb7d9d0b62d230de:
+    span:
+      start: 324072
+      end: 325063
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  f6578fee2c6147f69573f6bb08e5faff:
+    span:
+      start: 325065
+      end: 326128
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  37b9ab6f466741ae99ed8c0ea1226539:
+    span:
+      start: 326130
+      end: 327162
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  11fb6bae9d4547c995191fbef010b504:
+    span:
+      start: 327164
+      end: 328237
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  c5cff9006c244b0eb9db4967e416d5b5:
+    span:
+      start: 328239
+      end: 329250
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  ee4c0e176e5c4b92ba59450299efc433:
+    span:
+      start: 329252
+      end: 330259
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  be5afae15d5b4b3cae27ef0985d7f3af:
+    span:
+      start: 330261
+      end: 331291
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  16e6750dcd1e4ef7b354bb3a5a0ef6ad:
+    span:
+      start: 331293
+      end: 332300
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  1a12a2406b574de8abcff1181b640a3f:
+    span:
+      start: 332302
+      end: 333315
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  f261a954ade14405a3983d921d179654:
+    span:
+      start: 333317
+      end: 334368
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  35f5e0e19a1842b390252ebea8b0e788:
+    span:
+      start: 334370
+      end: 335349
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  ab1a9b711992469c93afc933676a0f74:
+    span:
+      start: 335351
+      end: 336353
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  8cb2bf0afc9d44d49b29b3d282985467:
+    span:
+      start: 336355
+      end: 337367
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  1f5a4f2331764c5eb0d25199b450cffe:
+    span:
+      start: 337369
+      end: 338432
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  515c57e35dda4b64b2db7cc9d4ef1387:
+    span:
+      start: 338434
+      end: 339414
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  48341de5a6b64e50a34f7aa48e9de4b8:
+    span:
+      start: 339416
+      end: 340407
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  583a675005814843acb63a1a6832b765:
+    span:
+      start: 340409
+      end: 341408
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  850b94195c6f48559d1400a31b55521e:
+    span:
+      start: 341410
+      end: 342326
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  469bb3e35f7a4048b3630748ca83f2d3:
+    span:
+      start: 342328
+      end: 343319
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  cb463bbde9794f489d9d04b988e0a350:
+    span:
+      start: 343321
+      end: 344284
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  8fda721093694e698649585881a4a9c8:
+    span:
+      start: 344286
+      end: 345259
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  105ac9bb52604cf18ebf058443c74e64:
+    span:
+      start: 345261
+      end: 346234
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  40ce16bdcf0b424fbe21c5bb4238e537:
+    span:
+      start: 346236
+      end: 347222
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  be74be1eab9c49b9b28717cfa3d544b6:
+    span:
+      start: 347224
+      end: 348192
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  3c91c07c7b074a18b9601a80936498d9:
+    span:
+      start: 348194
+      end: 349194
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  e38b8ca2493444c8ba91bab0f32112b9:
+    span:
+      start: 349196
+      end: 350224
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  2c96c2ed144b435885b3e11a9c281ecf:
+    span:
+      start: 350226
+      end: 351245
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  c64437ee45454ceeb295eefb6e1e57cd:
+    span:
+      start: 351247
+      end: 352280
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  32b8f80d45c44133ae6e7d5941a7c5d5:
+    span:
+      start: 352282
+      end: 353242
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  ac90c1bf584d4952aa67636cd9826fd4:
+    span:
+      start: 353244
+      end: 354195
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  ee3f238157bc460e8017990ef96853c5:
+    span:
+      start: 354197
+      end: 355173
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  0fefa6708d904cabb3be535b4fbc95ed:
+    span:
+      start: 355175
+      end: 356134
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  b3a3e31eebe84c4aa7280e57a0fc7177:
+    span:
+      start: 356136
+      end: 357106
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  f1c66a01d8264ed8a5bb9380140e34af:
+    span:
+      start: 357108
+      end: 358146
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  7c36df09a434418992224c62c5cab950:
+    span:
+      start: 358148
+      end: 359137
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  be6cb8b4dd8c453489e80fa18d3c7d62:
+    span:
+      start: 359139
+      end: 360059
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  6f6c75fff6f14b48a05f61c2fd80bff2:
+    span:
+      start: 360061
+      end: 361073
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  9a7d10cb4b1a4cf49832a686a9ce92c1:
+    span:
+      start: 361075
+      end: 361984
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  bef4b72f2cf547c6819865dc2997d0b0:
+    span:
+      start: 361986
+      end: 362919
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  400c7a3d752144f3a984c56976e26d0d:
+    span:
+      start: 362921
+      end: 363899
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  2bd74f5d3dfc492fa0d95491b84a117e:
+    span:
+      start: 363901
+      end: 364862
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  dc974b9e063a4ee686e959c898a2fe77:
+    span:
+      start: 364864
+      end: 365835
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  a5e2acabdfc64169b9f658e43ed042ef:
+    span:
+      start: 365837
+      end: 366831
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  326b22e123b042288f1bd95417d0420e:
+    span:
+      start: 366833
+      end: 367821
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  c97cc68493f545fb98003f5c0c736dac:
+    span:
+      start: 367823
+      end: 368842
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  0d7b10097d7743dda6029d362cff5676:
+    span:
+      start: 368844
+      end: 369853
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  6380135ce9a1420ea4ed4da5bbeab4d9:
+    span:
+      start: 369855
+      end: 370933
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  d1d614c6714247eeb9dbf1b504f8880a:
+    span:
+      start: 370935
+      end: 372003
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  198f26f4c1934250bf01b851cb6ba5f8:
+    span:
+      start: 372005
+      end: 373036
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  a1e977eb98a14f0ca10d218dcd295b52:
+    span:
+      start: 373038
+      end: 374188
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  dcc68e59a6ef47778cd6c65ed048b219:
+    span:
+      start: 374190
+      end: 375297
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  87faa024bb1f4620808f2df5ac06b239:
+    span:
+      start: 375299
+      end: 376402
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  6b30f31ca44b493c957e6b5da83d82ff:
+    span:
+      start: 376404
+      end: 377476
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  862055b43af54f91829877590d101d27:
+    span:
+      start: 377478
+      end: 378520
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  116f706dfdcc4edc80fd68028a534ac9:
+    span:
+      start: 378522
+      end: 379575
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  f93c1012476243889353717e3d500e01:
+    span:
+      start: 379577
+      end: 380606
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  0dbc80e738f44e50a9f9f5fc01b54890:
+    span:
+      start: 380608
+      end: 381609
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  9087c95b9f5c4310b299c2be7db168e7:
+    span:
+      start: 381611
+      end: 382670
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  b1f3f456119f47fe95508a39d598b439:
+    span:
+      start: 382672
+      end: 383640
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  cbdd33fdf1b744f2be0218dd81b6920f:
+    span:
+      start: 383642
+      end: 384697
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  5de683f832e942d1bcf4dc680077581c:
+    span:
+      start: 384699
+      end: 385658
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  3d7a15e6a245460e9f6027938a12afb8:
+    span:
+      start: 385660
+      end: 386710
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  a8a1abfb2d6e40b9a0617b76843ee922:
+    span:
+      start: 386712
+      end: 387702
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  aaae5eee48334b3a96e3fcfafd136525:
+    span:
+      start: 387704
+      end: 388719
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  68c8fe842c9b4fd98d295045cdf24d4d:
+    span:
+      start: 388721
+      end: 389753
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  fc88ae00d5954fd19b3ca7a3295e92a6:
+    span:
+      start: 389755
+      end: 390843
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  93805c0d98a4451a908daeaa7d7e0f71:
+    span:
+      start: 390845
+      end: 391884
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  7b2cd5ee76fd4693ac5d9060380968ba:
+    span:
+      start: 391886
+      end: 392931
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  db5b157d6980480e8d2f5086b75bcb96:
+    span:
+      start: 392933
+      end: 393957
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  a92b891c8fd540a196d805cc71733315:
+    span:
+      start: 393959
+      end: 394912
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  023f4766a01f4e09a7271754ab0d64b0:
+    span:
+      start: 394914
+      end: 395975
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  dbaf897dcaab4815ba344d6e00454be2:
+    span:
+      start: 395977
+      end: 397017
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  fe309d3b1dd644f2a692b7a68321d5ed:
+    span:
+      start: 397019
+      end: 398043
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  978acd17e9004688a51501e90546c049:
+    span:
+      start: 398045
+      end: 399055
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  edad74d8cae54cb3a47f2604099d5724:
+    span:
+      start: 399057
+      end: 400026
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  a58394feb7db4317bda239a829456f23:
+    span:
+      start: 400028
+      end: 401021
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  dbab4c17e71a4bfbac24938d7ac5b738:
+    span:
+      start: 401023
+      end: 402002
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  820e2388a608439587c07535cd9cf1c5:
+    span:
+      start: 402004
+      end: 403051
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  b0638dc59bf24dc8973cdd15d7f60472:
+    span:
+      start: 403053
+      end: 404038
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  52ed89d4e40a475e8a4af76e5030a899:
+    span:
+      start: 404040
+      end: 405044
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  59dfe0f209b54856af659d78ba1f5ba2:
+    span:
+      start: 405046
+      end: 406093
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  7fea82917c5544918b07e22ac5f6fcca:
+    span:
+      start: 406095
+      end: 407093
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  1d2d4156e0bc45cf9681a138e9aac128:
+    span:
+      start: 407095
+      end: 408088
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  db3b8a84ac134061bc83957b094f158d:
+    span:
+      start: 408090
+      end: 409136
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  064d83a70e364e41bd4f3efe4a7e139b:
+    span:
+      start: 409138
+      end: 410123
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  ea566c0544904446aa28cce89f5d9473:
+    span:
+      start: 410125
+      end: 411118
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  fa9bc63651924f82922436718fe61f71:
+    span:
+      start: 411120
+      end: 412101
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  7f9a630b2f3843e8b46204f45ec9c079:
+    span:
+      start: 412103
+      end: 413127
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  700655d4271643a88936877d37662e17:
+    span:
+      start: 413129
+      end: 414129
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  296990ac6fa04e739c5d197c7b7ab2b8:
+    span:
+      start: 414131
+      end: 415186
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  01725a98efa8400f838c373d0c5e81e8:
+    span:
+      start: 415188
+      end: 416249
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  bf72541b77354971855d0314efb5d718:
+    span:
+      start: 416251
+      end: 417291
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  42c750f0970e4a33b278f8579e582dca:
+    span:
+      start: 417293
+      end: 418289
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  9a60e3d8c6a346e98d66df91635d95c6:
+    span:
+      start: 418291
+      end: 419336
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  7335afd2160442feb74c6f9e68239564:
+    span:
+      start: 419338
+      end: 420422
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  95584c42384f48c8ba05cda42868739f:
+    span:
+      start: 420424
+      end: 421473
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  d823816c40af46c0ac02a298923ee198:
+    span:
+      start: 421475
+      end: 422482
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  e8ed26054eb548c19d90fc096904c1aa:
+    span:
+      start: 422484
+      end: 423474
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  9be8360694424fbd996e0841a671e958:
+    span:
+      start: 423476
+      end: 424510
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  20a61f4982bb4c6a90a9a2266bc67dde:
+    span:
+      start: 424512
+      end: 425532
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  3e1260795cf24381a079d0320f3fc83f:
+    span:
+      start: 425534
+      end: 426559
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  6d7b122f7aca475da7f841fb94b1ceba:
+    span:
+      start: 426561
+      end: 427564
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  edefe1d2014a416f89ca2a0bcba16cac:
+    span:
+      start: 427566
+      end: 428608
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  ae9e6169ac674023bb2e731ef022b317:
+    span:
+      start: 428610
+      end: 429681
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  153abaa3f4cb41688b3da5b38c37e0f8:
+    span:
+      start: 429683
+      end: 430703
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  86e596f435804497865d8ea1dd43b75a:
+    span:
+      start: 430705
+      end: 431763
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  05099b6d69bf4e25807d442254eba4aa:
+    span:
+      start: 431765
+      end: 432770
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  aaae87b6552242208e074e7692f981ae:
+    span:
+      start: 432772
+      end: 433823
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  d21d55790f3049bab3e6f729872f3888:
+    span:
+      start: 433825
+      end: 434901
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  8282c6358c9d47cba549ba0a5c0795d1:
+    span:
+      start: 434903
+      end: 435952
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  c8733aa464dd4d6393ae44ea83d84db6:
+    span:
+      start: 435954
+      end: 436979
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  3c85eabdfa7340f78869b52298a50512:
+    span:
+      start: 436981
+      end: 438017
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  ff9bdb37fd684d3b8b47445c9dacab4c:
+    span:
+      start: 438019
+      end: 439041
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  b72d577855464561a476b777d09c5a2f:
+    span:
+      start: 439043
+      end: 440127
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  151cbfe7ccbf477786625dccf5fc2f9c:
+    span:
+      start: 440129
+      end: 441133
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  041933f5a12f47869643b5657f26d7c4:
+    span:
+      start: 441135
+      end: 442140
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  e6fe4f906b6a46c389ff186ffdefc558:
+    span:
+      start: 442142
+      end: 443198
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  14533057c48f4b33989e9ace0560b2e5:
+    span:
+      start: 443200
+      end: 444281
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  6dcf4f913ba946e5a9314871078f3c66:
+    span:
+      start: 444283
+      end: 445328
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  607a9c1df8c44f28b9d60a70eba5c971:
+    span:
+      start: 445330
+      end: 446388
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  046cd74c596843668ddf577e6a0747dd:
+    span:
+      start: 446390
+      end: 447363
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  1d8e2c5963134df6bc1ec82a630cc715:
+    span:
+      start: 447365
+      end: 448453
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  1d2727d8acc84a888dfc1c48efb3d511:
+    span:
+      start: 448455
+      end: 449518
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  d8d6fe75febf416d92a1eab333f9bd09:
+    span:
+      start: 449520
+      end: 450631
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  72ec705492d742db8bca0f7316232dfb:
+    span:
+      start: 450633
+      end: 451644
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  1e083eb0f3ff449fa2bed7fb0356f017:
+    span:
+      start: 451646
+      end: 452646
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  92194d1fe903403eabd4d254a7e31fca:
+    span:
+      start: 452648
+      end: 453632
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  632bd12be95e48a4965167d02c944adb:
+    span:
+      start: 453634
+      end: 454620
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  722d372a46a2494db503133c921918f8:
+    span:
+      start: 454622
+      end: 455529
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  8c50f91b313e43779cd51b334658d2a0:
+    span:
+      start: 455531
+      end: 456461
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  d60028f8d58b487d98afa6c45ead1e56:
+    span:
+      start: 456463
+      end: 457390
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  6aee8726c22a4fdd8f06db457c4f7823:
+    span:
+      start: 457392
+      end: 458326
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  b8025df573c245fc8a63be35d9ff6feb:
+    span:
+      start: 458328
+      end: 459298
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  7049678d2dd7431ab4e2cbd143d627d5:
+    span:
+      start: 459300
+      end: 460353
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  5c39c631e6d94689a5ebeb54586ae952:
+    span:
+      start: 460355
+      end: 461385
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  6ed82d6982b84b6b896c3bc4725a47c8:
+    span:
+      start: 461387
+      end: 462398
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  f1906a70e94a4022967e9460d5275d00:
+    span:
+      start: 462400
+      end: 463472
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  841080cb65104999a0f8dcffcd6d360f:
+    span:
+      start: 463474
+      end: 464528
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  ddfba7db52ea4147b7e12df4641ee422:
+    span:
+      start: 464530
+      end: 465493
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  0203be22ec964693a870b3ec3baa15e2:
+    span:
+      start: 465495
+      end: 466489
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  1a467d1b2f0c4b3aa0e97ba1d6ca4f7f:
+    span:
+      start: 466491
+      end: 467490
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  c69816eeb60f484c8676fd7fd154ba92:
+    span:
+      start: 467492
+      end: 468562
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  f819c8df20454fc39984ddd928291b76:
+    span:
+      start: 468564
+      end: 469559
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  750ec259f3f848cc96523f3d4b38dc1a:
+    span:
+      start: 469561
+      end: 470571
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  c012e5a85d564aa4bd8aad57a3f03339:
+    span:
+      start: 470573
+      end: 471566
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  2547c9e15bca4002bca0181b91f6c4e9:
+    span:
+      start: 471568
+      end: 472551
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  eb2351507cd1404b9f5da67f053d5d24:
+    span:
+      start: 472553
+      end: 473566
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  7fa1cf8bb55541cebbc106689f261be1:
+    span:
+      start: 473568
+      end: 474595
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  5aa8ede5df9c4527a9ac1c403c1f4e10:
+    span:
+      start: 474597
+      end: 475577
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  7f2f1b89c1a24a6e9e09a700195c06f7:
+    span:
+      start: 475579
+      end: 476561
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  3f74ed99f8014ded83b3cbc65eb51b1b:
+    span:
+      start: 476563
+      end: 477587
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  2ddb4d53d29c47e9a5986b7aa7598670:
+    span:
+      start: 477589
+      end: 478605
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  9b23c37c18574dbda622e13c644e4712:
+    span:
+      start: 478607
+      end: 479659
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  1f1de2653d554b91b068c356293c3d87:
+    span:
+      start: 479661
+      end: 480641
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  29e79f1d494a408f9cef865f9f44c081:
+    span:
+      start: 480643
+      end: 481655
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  012b6ff964eb4aec8f90b9903e611616:
+    span:
+      start: 481657
+      end: 482695
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  8eb3cd66c0b5487d99ac9c70dca9f1fd:
+    span:
+      start: 482697
+      end: 483665
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  4b73070098564ffcb8f440a2e97d5872:
+    span:
+      start: 483667
+      end: 484683
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  1b48050f13b940069bdb9cebb713457c:
+    span:
+      start: 484685
+      end: 485627
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  ad93cc1d8fd6411babc71599b33b7e2d:
+    span:
+      start: 485629
+      end: 486608
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  f81f698917a74183938161d14254cfa5:
+    span:
+      start: 486610
+      end: 487663
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  2dafb7a4fdd14c959591c9df89a27703:
+    span:
+      start: 487665
+      end: 488693
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  fc7b1b235214490989e31bb3376726f7:
+    span:
+      start: 488695
+      end: 489661
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  74984ceaf91449bc9131f74b872dc376:
+    span:
+      start: 489663
+      end: 490670
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  f97001883bb546259d74b6a6d2922300:
+    span:
+      start: 490672
+      end: 491713
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  cb9f6f519fe64319a24256354458551a:
+    span:
+      start: 491715
+      end: 492742
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  4d0518b10d51479c8711bd71598a8955:
+    span:
+      start: 492744
+      end: 493745
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  4caa041c1a2c464a8533ebaf0aea0b53:
+    span:
+      start: 493747
+      end: 494798
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  e1a0d71d07264586a1fdad0553f65e26:
+    span:
+      start: 494800
+      end: 495794
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  014c58887e2849718ce85ea40bd6bb44:
+    span:
+      start: 495796
+      end: 496781
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  b96de8d757054ab7adaa619357f6a294:
+    span:
+      start: 496783
+      end: 497786
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  851b54524e4241ecb8a3813935e18b1b:
+    span:
+      start: 497788
+      end: 498831
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  cade1442177549708881a32dec589812:
+    span:
+      start: 498833
+      end: 499834
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  d330553343f249b09767f3a55acad12b:
+    span:
+      start: 499836
+      end: 500866
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  f79c1e207bde4d0a8010df04bf988ba0:
+    span:
+      start: 500868
+      end: 501850
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  6c4926b6480449f092e0038d675d25b3:
+    span:
+      start: 501852
+      end: 502885
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  888da2583afe434f8feb5ee314aace7a:
+    span:
+      start: 502887
+      end: 503799
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  81c8d6115804486298488c0114a1a435:
+    span:
+      start: 503801
+      end: 504756
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  99f38ff08c104cff97a9a8c3f4abf351:
+    span:
+      start: 504758
+      end: 505671
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  5902e82fa2aa444ab6a2e49cf8079bcf:
+    span:
+      start: 505673
+      end: 506616
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  04f4683d4fe34a4ea2d76defa5c184f1:
+    span:
+      start: 506618
+      end: 507558
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  1f421cfd54894e1e80974f2e4b8769d6:
+    span:
+      start: 507560
+      end: 508585
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  370f25657ec849fcaadf6250dcd1b4d4:
+    span:
+      start: 508587
+      end: 509580
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  7c631e3ddddd4f398cd52b14f956ff9b:
+    span:
+      start: 509582
+      end: 510604
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  e2d918e39d5a403caae86baef530474b:
+    span:
+      start: 510606
+      end: 511620
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  c718a7ee605a4c51985cbd9ed38bb51a:
+    span:
+      start: 511622
+      end: 512666
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  efb9a41f1eb04a48a0f797232455b8ab:
+    span:
+      start: 512668
+      end: 513686
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  ee0b438f1beb46d6934ddd431f00a75c:
+    span:
+      start: 513688
+      end: 514724
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  0287753ed5474aa3b0b78e63189df789:
+    span:
+      start: 514726
+      end: 515702
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  b7b0a025ecc74b81b50e7b7b3489d9e8:
+    span:
+      start: 515704
+      end: 516712
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  3de37be4ef314bcf9ac1439a4407482a:
+    span:
+      start: 516714
+      end: 517676
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  d4f7538f643b44499e70ea9759f6bbb9:
+    span:
+      start: 517678
+      end: 518642
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  2c51d4ccc1dc4b35ad0dfeee5b24d89e:
+    span:
+      start: 518644
+      end: 519626
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  f8d623235d66414cbf2ca52e94f5ed6b:
+    span:
+      start: 519628
+      end: 520684
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  e2104b8d4d634c159bdde1d113d5820b:
+    span:
+      start: 520686
+      end: 521702
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  c79610697af84a7b80c97e9d9e4d1e36:
+    span:
+      start: 521704
+      end: 522779
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  af2621c5948d48bd865725ec22df0446:
+    span:
+      start: 522781
+      end: 523822
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  3207d482a5cf44719d63c1e7ad1c6d68:
+    span:
+      start: 523824
+      end: 524879
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  d1cfb5fb45ac476495144af5e41d381b:
+    span:
+      start: 524881
+      end: 525929
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  11ca276f5d634e2f9ed8c6ead30b07d0:
+    span:
+      start: 525931
+      end: 526943
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  30eec6f407af478291ce6144ec915337:
+    span:
+      start: 526945
+      end: 527943
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  d2c376100a4d4593a45437d26ddbd553:
+    span:
+      start: 527945
+      end: 528972
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  1a60d5b2daca4d4c8a03d369424706a8:
+    span:
+      start: 528974
+      end: 530043
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  c1342f41d58149aaa25eff1cdce895fd:
+    span:
+      start: 530045
+      end: 531097
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  049c90682ad44c7b96c06167fada6f13:
+    span:
+      start: 531099
+      end: 532119
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  6fe9afc08e474abfb0bc3c29092c0638:
+    span:
+      start: 532121
+      end: 533136
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  d26e6f09d42f44fea4f63654a8fc94c2:
+    span:
+      start: 533138
+      end: 534100
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  923427e6cc2a46f08a74c9fa502246b2:
+    span:
+      start: 534102
+      end: 535163
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  beb6098d771044a7ba5d5ed93f83e33f:
+    span:
+      start: 535165
+      end: 536203
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  e70d4afb851d482caa5c2260ca3e42d0:
+    span:
+      start: 536205
+      end: 537286
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  f7931825ea354a0a87a5a6c5fc51eda0:
+    span:
+      start: 537288
+      end: 538352
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  bad6f28bcfec41dc9a85a4cd62d1aa4a:
+    span:
+      start: 538354
+      end: 539402
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  c498e7e9bfdb4085b1870bae4854c76f:
+    span:
+      start: 539404
+      end: 540422
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  7b2253f1f58d49d68b54722fb91a5443:
+    span:
+      start: 540424
+      end: 541465
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  1d415671d612433ebb88775864acf624:
+    span:
+      start: 541467
+      end: 542448
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  2e4b983617ad428a8be1e59c76e9b9af:
+    span:
+      start: 542450
+      end: 543421
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  1d5968079d3c4094a3e8e1d226e8d340:
+    span:
+      start: 543423
+      end: 544442
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  8eedf51ba34b46d790e3d5344df641da:
+    span:
+      start: 544444
+      end: 545418
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  46b6efd139d747b6954944fd2f839f04:
+    span:
+      start: 545420
+      end: 546436
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  aff251705c7348a5bffa1668af2611c5:
+    span:
+      start: 546438
+      end: 547483
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  6bd108f78929417cb7e719c2d3670066:
+    span:
+      start: 547485
+      end: 548539
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  12aec1bcfaa14e9a8411d6939b303b90:
+    span:
+      start: 548541
+      end: 549601
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  f5638f12f6914669970eb92c0462c738:
+    span:
+      start: 549603
+      end: 550676
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  8bf421bc750740b4a1843773759b85a9:
+    span:
+      start: 550678
+      end: 551775
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  fcbd8333cb5b48318c19eece32f5e9ce:
+    span:
+      start: 551777
+      end: 552836
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  4326b5d994e842aabe1f9fa2e97c3d4a:
+    span:
+      start: 552838
+      end: 553988
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  41a305dd49ae4009afe83a3d2288058f:
+    span:
+      start: 553990
+      end: 555132
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  d8fad41260c641bfb52240cfe58a54a2:
+    span:
+      start: 555134
+      end: 556189
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  149a99b0022542a3b69c0787d1c11b4a:
+    span:
+      start: 556191
+      end: 557322
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  de255ee50f6f494a8da03a71d0d433ee:
+    span:
+      start: 557324
+      end: 558489
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  dc31579b0bfc4da6a084be71e47d4e1f:
+    span:
+      start: 558491
+      end: 559573
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  3e21e76854bc4a219700070c8d58b61a:
+    span:
+      start: 559575
+      end: 560705
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  ae5e558796c446c7b28f7c05f86afaf5:
+    span:
+      start: 560707
+      end: 561731
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  51c1bfd9ba154df6a8ef9667d509c1ba:
+    span:
+      start: 561733
+      end: 562679
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  b930ce78e47a4f15bdbf899d7b03cbf3:
+    span:
+      start: 562681
+      end: 563631
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  fc6f1ab04c084df686d2318ece5467db:
+    span:
+      start: 563633
+      end: 564611
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  57c81056cc7f4329b80d4f61f85c9c3f:
+    span:
+      start: 564613
+      end: 565555
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  3ee05c723e7c452897dfa938c03da718:
+    span:
+      start: 565557
+      end: 566523
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  e7624c5a9ff74f97b7bd04d570b42e2b:
+    span:
+      start: 566525
+      end: 567534
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  88295e615d0b4ef5bfae6338d195833e:
+    span:
+      start: 567536
+      end: 568438
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  6bfcf6258cad480aa53526f7306436ce:
+    span:
+      start: 568440
+      end: 569376
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  d72f257cf8694429a594c0b30e0d4cf8:
+    span:
+      start: 569378
+      end: 570265
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  27660d4fe137438ab49bd28530f13dac:
+    span:
+      start: 570267
+      end: 571182
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  8e8ef1e728a8455f8c3f27ca638f6dcd:
+    span:
+      start: 571184
+      end: 572078
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  dd0af1f14acb4d64a7cab29e03558d04:
+    span:
+      start: 572080
+      end: 573005
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  ea4f92cd004743809eacb73880ec5222:
+    span:
+      start: 573007
+      end: 574006
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  71d969d4e6364c859b7262f1bb3f60ca:
+    span:
+      start: 574008
+      end: 575007
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  c31a78854406428eb15eef3b9afc7e7f:
+    span:
+      start: 575009
+      end: 575964
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  bea0d40ed5e547f2b6a47b165cfeb9f9:
+    span:
+      start: 575966
+      end: 576888
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  a8cfcdceb95f4f76bc425aaf02ab45c9:
+    span:
+      start: 576890
+      end: 577835
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  979b95af548a48cf9fafa59cb709463e:
+    span:
+      start: 577837
+      end: 578790
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  8bcc369637064dbb8baf60ad9a8b9620:
+    span:
+      start: 578792
+      end: 579822
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  e411bd64454043738be762f1e9a0d728:
+    span:
+      start: 579824
+      end: 580839
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  92fab3c8f0524bad9bfd3ef62ec35c86:
+    span:
+      start: 580841
+      end: 581836
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  a3100a8b78ce4ae0b0b544200f21e802:
+    span:
+      start: 581838
+      end: 582864
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  c94cea476a5d4320817564fc71a1fc20:
+    span:
+      start: 582866
+      end: 583853
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  3b98239229dc4e7b9744ed190445b4fd:
+    span:
+      start: 583855
+      end: 584815
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  05af5b7f58f44e428bf68daa873a48ce:
+    span:
+      start: 584817
+      end: 585833
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  bd8d09a309224bceb0a96178756efffe:
+    span:
+      start: 585835
+      end: 586820
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  a036b06750064c9abcbcdd50ab61edcb:
+    span:
+      start: 586822
+      end: 587835
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  75b65e564f8645caa6545ce5c6a12f8b:
+    span:
+      start: 587837
+      end: 588826
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  fa0f81be9b7840be9b24d840b74821f4:
+    span:
+      start: 588828
+      end: 589833
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  95adfc9d9efc4e799b0979f8edb1dd11:
+    span:
+      start: 589835
+      end: 590850
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  c7ee6d9f49f7403c923d523cfa7c16e6:
+    span:
+      start: 590852
+      end: 591842
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  ebf99a1adaed4d51860848c26b2f03b7:
+    span:
+      start: 591844
+      end: 592834
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  1fb3405a1f5b4ea8aa61198f56fa1c34:
+    span:
+      start: 592836
+      end: 593854
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  ab1758ee62d34fd8a8c9f54cb51cbe98:
+    span:
+      start: 593856
+      end: 594836
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  94138b65b2984c01a28b86f8e88705c0:
+    span:
+      start: 594838
+      end: 595840
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  6f355c9340f748b9989f95c9842ebbf1:
+    span:
+      start: 595842
+      end: 596870
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  aa3f01c912f24f5fa5449cfdf7de66b4:
+    span:
+      start: 596872
+      end: 597876
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  beca5941edb94ccdb5f3a82a9bfcc8d6:
+    span:
+      start: 597878
+      end: 598853
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  7ba6dd6eb1394fcaba3e7785b24ff317:
+    span:
+      start: 598855
+      end: 599905
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  63dbe019539040bcbbcf39d39b500392:
+    span:
+      start: 599907
+      end: 600906
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  5d7fbdb1f52e4deea45269e8eb178997:
+    span:
+      start: 600908
+      end: 601934
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  8c314c0cdf0c4b99b3362a21b8089917:
+    span:
+      start: 601936
+      end: 602916
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  8851a29dc3a6464eb1e00fabf52c95d1:
+    span:
+      start: 602918
+      end: 604032
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  524a3cae1fd94e289103c1e7c728cb02:
+    span:
+      start: 604034
+      end: 605048
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  2330351842e24f46a7736a9ec38c466e:
+    span:
+      start: 605050
+      end: 606022
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  ff27fd41c7b94cf1b547799439e82af8:
+    span:
+      start: 606024
+      end: 607036
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  ab683eac678d4ec1a7ba2cc6dd952130:
+    span:
+      start: 607038
+      end: 608065
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  f827cd70df3c451e98867860a7093c7b:
+    span:
+      start: 608067
+      end: 609091
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  5c771eb58954454689880dd94dd6519c:
+    span:
+      start: 609093
+      end: 610211
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  faba2747175a471081d9135cb63edc35:
+    span:
+      start: 610213
+      end: 611194
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  5b1601722c974a3d87ca25cadccf7458:
+    span:
+      start: 611196
+      end: 612194
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  6062c52300d341dca4ea02138a258b66:
+    span:
+      start: 612196
+      end: 613226
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  7d0f22d0d9364791a9d191f737920854:
+    span:
+      start: 613228
+      end: 614262
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  777c9b88cba34519b606bd92ecf13a96:
+    span:
+      start: 614264
+      end: 615303
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  c524f5f2296c4ae38461ac940d1f29be:
+    span:
+      start: 615305
+      end: 616356
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  f27d1e1b9ce14ed5b0ec89e534d007e7:
+    span:
+      start: 616358
+      end: 617361
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  b045cb72f0c74b30977b1d949b9c23cb:
+    span:
+      start: 617363
+      end: 618357
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  3fac4bf96d7d4298a4aa7230f97755a9:
+    span:
+      start: 618359
+      end: 619314
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  96e3c639aeec468bbb14ee7d0b06ade0:
+    span:
+      start: 619316
+      end: 620322
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  c9fb44de673540889ca704b73791863a:
+    span:
+      start: 620324
+      end: 621312
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  dfdbd98e9bf24b1f95a6b61bedba53d6:
+    span:
+      start: 621314
+      end: 622384
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  552c3e9f36d04e62b099baeff5111b24:
+    span:
+      start: 622386
+      end: 623423
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  71a1a01aeda649e6b43e14a22b694b59:
+    span:
+      start: 623425
+      end: 624369
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  990c86bb5cb84684a6cfbf7b4527b087:
+    span:
+      start: 624371
+      end: 625381
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  26f1a9a9cf374a8a896e87f40e5625fa:
+    span:
+      start: 625383
+      end: 626401
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  ee773f47463e4b3283ec1e09f467e04e:
+    span:
+      start: 626403
+      end: 627380
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  bc6bdf1d4c32456398b095e2ead3e798:
+    span:
+      start: 627382
+      end: 628385
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  80646422fe6146beb562ef1f46c40057:
+    span:
+      start: 628387
+      end: 629423
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  22da052e8e12447086ddf4be02d62d4e:
+    span:
+      start: 629425
+      end: 630482
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  a196710a20ce4ce1addbd490dc485935:
+    span:
+      start: 630484
+      end: 631530
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  16f2ab7331d24648a80002c8bf79c682:
+    span:
+      start: 631532
+      end: 632576
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  4a5800b9296c4a9aadea9361e7584ce0:
+    span:
+      start: 632578
+      end: 633622
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  0c32ee8960da4d7d83769dadb495a6ec:
+    span:
+      start: 633624
+      end: 634658
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  33d8788b50314c899e28c9da613b4fc1:
+    span:
+      start: 634660
+      end: 635740
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  15d15489031f4919bb5e2b89f09be42a:
+    span:
+      start: 635742
+      end: 636818
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  7e248ca016114b43b3be8367b88da7bd:
+    span:
+      start: 636820
+      end: 637829
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  fc9e42ab2c624b209ee6aac3299adbb9:
+    span:
+      start: 637831
+      end: 638847
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  ae2e6865609049fc9edea26765153843:
+    span:
+      start: 638849
+      end: 639912
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  8cc6e9fc945f425980463ec42d8425cc:
+    span:
+      start: 639914
+      end: 641002
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  38e794b1f6964444b1dfb83f00d86ba6:
+    span:
+      start: 641004
+      end: 642084
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  e4719ed6a5fa4f9695e2289aceaed5ce:
+    span:
+      start: 642086
+      end: 643093
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  0cfd8074e56f4d2aba2ef529f6063516:
+    span:
+      start: 643095
+      end: 644116
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  ea3e88119d504d2a9eb25ed903c219ca:
+    span:
+      start: 644118
+      end: 645202
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  95d13a77502a480dbbbfb9629da03592:
+    span:
+      start: 645204
+      end: 646199
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  2894c428817d485d94ad5d6487b5e4de:
+    span:
+      start: 646201
+      end: 647232
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  cccce699fb134750b293736ffb8a60b0:
+    span:
+      start: 647234
+      end: 648250
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  9cf924ac6a714192af825205f533401c:
+    span:
+      start: 648252
+      end: 649357
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  c096f55fe6084e7da48554c4776436ae:
+    span:
+      start: 649359
+      end: 650427
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  556e0cfadabc437485c30bc75a524a13:
+    span:
+      start: 650429
+      end: 651459
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  0534f428e88a4ae688e9471dee420dfd:
+    span:
+      start: 651461
+      end: 652507
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  35145eff6271460f96ac87a53b7691a1:
+    span:
+      start: 652509
+      end: 653574
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  0ab10186f9ef4d0f9a07f397cfb181e8:
+    span:
+      start: 653576
+      end: 654613
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  1607b6f5086f4c8f97d3c5df3d93b395:
+    span:
+      start: 654615
+      end: 655647
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  06e87504c2ed4ebcabdb9c70e7c112b9:
+    span:
+      start: 655649
+      end: 656679
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  b40cd3e7e74c4ce798f50674a344d623:
+    span:
+      start: 656681
+      end: 657789
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  196727c7e86247779b787cbec874e31b:
+    span:
+      start: 657791
+      end: 658843
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  e95f8d54895c46a591fa9659c1284a5a:
+    span:
+      start: 658845
+      end: 659890
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  288b20d6d96b413b96ad3105d536f3de:
+    span:
+      start: 659892
+      end: 660996
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  9a0b1094ac864dfda2cb199ea45c0b3b:
+    span:
+      start: 660998
+      end: 662076
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  c819588346414e16bce50a5c4e14c1ad:
+    span:
+      start: 662078
+      end: 663122
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  fa03e18bd65249a68f681f9842cc74aa:
+    span:
+      start: 663124
+      end: 664253
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  bfb20933f8fe46dba4b4f19ca977fa9a:
+    span:
+      start: 664255
+      end: 665360
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  89c1680571734f459c2740c4fea865b9:
+    span:
+      start: 665362
+      end: 666387
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  dfac5ae2be974c17b1bd14587e52e942:
+    span:
+      start: 666389
+      end: 667446
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  444026cd62054180be4b3e8ce3916741:
+    span:
+      start: 667448
+      end: 668485
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  1e95dfd8488f41bf9972931374687896:
+    span:
+      start: 668487
+      end: 669529
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  e999feb81fd140f1838d908a7cdfbe82:
+    span:
+      start: 669531
+      end: 670608
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  e9f9889545514fe8b6beb85683e974b2:
+    span:
+      start: 670610
+      end: 671584
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  85063508deba49f39e72722e5cdd3728:
+    span:
+      start: 671586
+      end: 672679
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  a9e4b1638c2f46f29f9ceeb8d87482c4:
+    span:
+      start: 672681
+      end: 673719
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  b7106e2cb43846de9ee7eb4570326b18:
+    span:
+      start: 673721
+      end: 674719
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  642cbb3f1c7e4747a55f2c0820a7a785:
+    span:
+      start: 674721
+      end: 675767
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  dc6a719c20ef4984a6ceae8688e24778:
+    span:
+      start: 675769
+      end: 676789
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  00328efa199a4e1fa89c22420d9f2f90:
+    span:
+      start: 676791
+      end: 677864
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  5ef6034c9afe421687a26113c3b5a663:
+    span:
+      start: 677866
+      end: 678842
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  a5732db2c447491a94e816d5b33b0a12:
+    span:
+      start: 678844
+      end: 679854
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  29b0abdf253c4acc8dfd9564eb9c3c2c:
+    span:
+      start: 679856
+      end: 680832
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  64bf27ed7eea49c58b8df0698b9b0bac:
+    span:
+      start: 680834
+      end: 681846
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  ff4e8234748d4e75be939968e667174d:
+    span:
+      start: 681848
+      end: 682893
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  3c085db9b694437799048a408294d117:
+    span:
+      start: 682895
+      end: 683902
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  b7d5edcda458421293fe068992ef1667:
+    span:
+      start: 683904
+      end: 684897
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  47a886df5b194cb4a182e8509f419fe8:
+    span:
+      start: 684899
+      end: 685893
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  395e7a57bddb449dae18a382e2cbf03f:
+    span:
+      start: 685895
+      end: 686862
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  25f23ae4a4af43669df6884c24361ebe:
+    span:
+      start: 686864
+      end: 687805
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  0517b175602b4cc28c242cb4551fe2a8:
+    span:
+      start: 687807
+      end: 688810
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  fd73f75d6da5402abec2eb6d0097e921:
+    span:
+      start: 688812
+      end: 689792
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  e01343aea1594c5ca9a9eea0c49f0985:
+    span:
+      start: 689794
+      end: 690800
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  466ecb7451154258b9d184e382184ab9:
+    span:
+      start: 690802
+      end: 691777
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  901fad7b70ef41e3ae4317e2d6d9ddb4:
+    span:
+      start: 691779
+      end: 692727
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  d9dc07c593ef43ef9cb2556b64dbc574:
+    span:
+      start: 692729
+      end: 693723
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  4ee76d603d924d4db483010d357beed5:
+    span:
+      start: 693725
+      end: 694764
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  9a56381c86de44609457ebdd603fc6b0:
+    span:
+      start: 694766
+      end: 695759
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  b5ad0cdc65b64deba42a64606ef216eb:
+    span:
+      start: 695761
+      end: 696821
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  22b4d0adb9d8468a9fa1c966efa5da40:
+    span:
+      start: 696823
+      end: 697825
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  94d3c510468445429438326585d9b56f:
+    span:
+      start: 697827
+      end: 698825
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  6d2ac348267645dea9b8fc250697ba3e:
+    span:
+      start: 698827
+      end: 699872
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  69e5d84c803c41b381463bc10101ab66:
+    span:
+      start: 699874
+      end: 700947
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  8f5045c291b44995b2d30284dbf97ea0:
+    span:
+      start: 700949
+      end: 701943
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  426a6c2822b04b5db8cba79e6e202181:
+    span:
+      start: 701945
+      end: 702980
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  ef3f22b603b1400687c9b8ca869ecaf3:
+    span:
+      start: 702982
+      end: 703899
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  36d348c75b824ac18ac525dd849ea77d:
+    span:
+      start: 703901
+      end: 704821
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  665bdc3ab6814f9898cad518658f76f3:
+    span:
+      start: 704823
+      end: 705764
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  baad4eb1c6be4b97978acf1db01d3455:
+    span:
+      start: 705766
+      end: 706745
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  8eaf38179d9543538fcbd1e8ffbda401:
+    span:
+      start: 706747
+      end: 707645
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  aa23bd66bc484540b5a49833b89651a7:
+    span:
+      start: 707647
+      end: 708581
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  da1f6d67b49f4934adae873cbba9bd47:
+    span:
+      start: 708583
+      end: 709544
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  1e00b8a9552645f3921bee90f55db270:
+    span:
+      start: 709546
+      end: 710626
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  c194da29712849b2a37717a053718682:
+    span:
+      start: 710628
+      end: 711644
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  cbfff86ea66841fc9e6c0c4288a996a3:
+    span:
+      start: 711646
+      end: 712750
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  8b414dbfa85b47f39f10944bff54c73b:
+    span:
+      start: 712752
+      end: 713764
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  1991e05c271a431da54e773827a92ea2:
+    span:
+      start: 713766
+      end: 714816
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  262078e3d6184f76b1a0d911da508e8c:
+    span:
+      start: 714818
+      end: 715862
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  e19b2b90ba11409b95d2b5560d9bc256:
+    span:
+      start: 715864
+      end: 716911
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  20a4e7d079424cbfa5bc39be2a21d7e5:
+    span:
+      start: 716913
+      end: 717990
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  4741cd315a7247ef999f917dc4cd5534:
+    span:
+      start: 717992
+      end: 719089
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  23d6a72f531449c78bf11ccd4a88a061:
+    span:
+      start: 719091
+      end: 720061
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  16cece2d0e1440249a732dab770c62c9:
+    span:
+      start: 720063
+      end: 721074
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  d6d9c6578f7d4e86b14b6ea854177212:
+    span:
+      start: 721076
+      end: 722110
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  a8c4455602614010b98c1548bb33eac9:
+    span:
+      start: 722112
+      end: 723160
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  a199515b62274934befde9bb7ad618a2:
+    span:
+      start: 723162
+      end: 724241
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  f4251dd53e45469e91814d09397d2a02:
+    span:
+      start: 724243
+      end: 725306
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  0e11271a1b824a408fb46f45d935ae51:
+    span:
+      start: 725308
+      end: 726332
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  a3d1f17e63bc44efb8b6e3436e29ed79:
+    span:
+      start: 726334
+      end: 727388
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  9518578d95a5470386515c257a5ae831:
+    span:
+      start: 727390
+      end: 728502
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  3914e35bbed445b0b95986d1599de662:
+    span:
+      start: 728504
+      end: 729532
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  aebea822741a4ec0889385cee4917bc3:
+    span:
+      start: 729534
+      end: 730591
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  8d3335a0045e4ee8a29b73523193feec:
+    span:
+      start: 730593
+      end: 731756
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  a9b0b4be5ec44f3fb3b57360d38737e1:
+    span:
+      start: 731758
+      end: 732833
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  8668dd8e71f44573bed28c5a9b717ee9:
+    span:
+      start: 732835
+      end: 733877
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  07955f0438a94712af4833476084cb48:
+    span:
+      start: 733879
+      end: 734891
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  86ee9419e32b4c089c08d3e3abda7b74:
+    span:
+      start: 734893
+      end: 735937
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  0c0a186ff124444d9d50fa2a1f226227:
+    span:
+      start: 735939
+      end: 736990
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  fc3d017c51cb4e4d872cc01de22cb8e8:
+    span:
+      start: 736992
+      end: 738097
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  6cd824e0a5cc4136ac8fb957bbf84dab:
+    span:
+      start: 738099
+      end: 739139
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  f285a99410a54ee1bc05f198fa350d3e:
+    span:
+      start: 739141
+      end: 740178
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  8c37087517a4435da20d60471a4753b9:
+    span:
+      start: 740180
+      end: 741171
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  395810a6781b4e50a5e2322e8d6a928e:
+    span:
+      start: 741173
+      end: 742219
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  71ebfab905ff4e73871d291c76a25c98:
+    span:
+      start: 742221
+      end: 743313
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  eac3f42e4a0d4c889e8ae14305c7c016:
+    span:
+      start: 743315
+      end: 744456
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  f9cd443bc6ed438f9fd14c6523816d0d:
+    span:
+      start: 744458
+      end: 745678
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  3ff905ba245f4eb8ba017a9f001012b6:
+    span:
+      start: 745680
+      end: 746808
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  133aede6f8d44b66a52e8dcbf11847d4:
+    span:
+      start: 746810
+      end: 747864
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  01ba7b53ce5e4ad184caec10e767c0ed:
+    span:
+      start: 747866
+      end: 748879
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  4adf8f74a5564a4f97985c782258f3fb:
+    span:
+      start: 748881
+      end: 749864
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  264e73b74f75427a95ce508b82645907:
+    span:
+      start: 749866
+      end: 750907
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  f7ddbcddf817455db8e5723c1a076034:
+    span:
+      start: 750909
+      end: 751931
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  b58937d891a9446593089e2fddedfd4e:
+    span:
+      start: 751933
+      end: 752979
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  d79e52d8e38d416f8b9f720f38520bb0:
+    span:
+      start: 752981
+      end: 754044
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  88d1b976bec54e07bd51db8e9d0b6d7d:
+    span:
+      start: 754046
+      end: 755196
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  e1d6e51217e34df6b4a88bb7a26d2329:
+    span:
+      start: 755198
+      end: 756292
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  7785591ce4d34ebca71a4db9fe8e59d0:
+    span:
+      start: 756294
+      end: 757404
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  40f49a0fc71040a4b35e57a250a2c08c:
+    span:
+      start: 757406
+      end: 758429
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  44b61e9c3d764bd5831908293b8bd6f6:
+    span:
+      start: 758431
+      end: 759413
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  79b51264be144a7c97311911f18e5594:
+    span:
+      start: 759415
+      end: 760457
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  49efc0d6d6ea4aa6baa1b6d86a64e739:
+    span:
+      start: 760459
+      end: 761545
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  962ee5fcc11e4768ab93fca21c128489:
+    span:
+      start: 761547
+      end: 762661
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  289434c0e074499eaa93341a4695e802:
+    span:
+      start: 762663
+      end: 763786
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  bde184eb36d444779480d65eba181c93:
+    span:
+      start: 763788
+      end: 764876
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  e68efd20e19f4ead9e3140b31883ac75:
+    span:
+      start: 764878
+      end: 765956
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  be69e8ce52e846f3883aff86471cf5cd:
+    span:
+      start: 765958
+      end: 767076
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  75232af9c929437db5c7fd125dc9f9cc:
+    span:
+      start: 767078
+      end: 768141
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  4b2d8db70bd94c4e9b3ec8bad62ee26a:
+    span:
+      start: 768143
+      end: 769206
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  b211e2672c7540918c190a8faf424aff:
+    span:
+      start: 769208
+      end: 770258
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  d26f2add21c542daa647763f3d253e0e:
+    span:
+      start: 770260
+      end: 771330
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  ed35bd0dfcbe446ab33dfa2a79f293de:
+    span:
+      start: 771332
+      end: 772445
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  21ee9f2defb840c583db730917875d70:
+    span:
+      start: 772447
+      end: 773530
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  05e216191f0942f1949cd2084d2a1e8d:
+    span:
+      start: 773532
+      end: 774597
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  1e2ccca949ed41e9a79dce0e86f9bafe:
+    span:
+      start: 774599
+      end: 775639
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  2af2f07646be48ebaca70af7b523da05:
+    span:
+      start: 775641
+      end: 776690
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  ad38e783d5c04a669f4d7b00ec554f1a:
+    span:
+      start: 776692
+      end: 777703
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  6f723a72195b446e8a69c8e454102b30:
+    span:
+      start: 777705
+      end: 778799
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  2c69909dd63f4cf49bf6817a9d8cd9ad:
+    span:
+      start: 778801
+      end: 779928
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  eba4920cead748b1a27e4d9e06baac0e:
+    span:
+      start: 779930
+      end: 780978
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  9660906292af4cd0af2a2718a8c06443:
+    span:
+      start: 780980
+      end: 781965
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  8b693f1dbd534e2cbf23b1b35a4e7957:
+    span:
+      start: 781967
+      end: 783072
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  e9c155c12696419cac1b4774265238fe:
+    span:
+      start: 783074
+      end: 784200
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  9b031f94ad5b4b3eab107c68d8d4c639:
+    span:
+      start: 784202
+      end: 785301
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  6612a576c4014bebb5804ea746b6ae5d:
+    span:
+      start: 785303
+      end: 786342
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  59e5788447ac42aeb1b7168d677a1ee2:
+    span:
+      start: 786344
+      end: 787395
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  385ec9ed7b0c4c16aeffbc71eb83e451:
+    span:
+      start: 787397
+      end: 788436
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  af4b99e8aae24ba2b3a2c328ebef6f2f:
+    span:
+      start: 788438
+      end: 789516
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  a3e713b5863247b7bd4881e427a7fa5b:
+    span:
+      start: 789518
+      end: 790560
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  d6c86bcf1ff645648c04ca9be99a58ee:
+    span:
+      start: 790562
+      end: 791605
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  9a030504b45a49b2a1f7048bfc4ca9cf:
+    span:
+      start: 791607
+      end: 792651
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  189d778f7223439382a85961834c3ef1:
+    span:
+      start: 792653
+      end: 793699
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  416b6f800dc74b2bbad1248f786e3b5d:
+    span:
+      start: 793701
+      end: 794734
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  78cf2973a2af408498f865b93beb88b0:
+    span:
+      start: 794736
+      end: 795802
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  61c98419cda74b398e53c8cbec0d266e:
+    span:
+      start: 795804
+      end: 796829
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  24e25d9e549e4922a5d8a05bfd16e009:
+    span:
+      start: 796831
+      end: 797896
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  96d72252edee4fbc903a6e7d60e57070:
+    span:
+      start: 797898
+      end: 798915
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  b8df3f18a2a74b8d979d7d5521f4f1bb:
+    span:
+      start: 798917
+      end: 799928
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  eb75d195665b43d09a3b9707b09c1c29:
+    span:
+      start: 799930
+      end: 800973
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  cbb4ca2da2f24165a03d56c390ec8755:
+    span:
+      start: 800975
+      end: 801981
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  a856bd55547a4f0db50f3fde85dc3dbc:
+    span:
+      start: 801983
+      end: 803023
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  ea1b5465a95442da8a4b0a4b15179150:
+    span:
+      start: 803025
+      end: 804113
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  663ade6a940547e1a7c803b28cd03195:
+    span:
+      start: 804115
+      end: 805198
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  2cd94949c61343718337e04f6ea13a3e:
+    span:
+      start: 805200
+      end: 806232
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  cc5e749af030422f9c49c819d89df9d3:
+    span:
+      start: 806234
+      end: 807280
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  f3b13775c1a04de8b6c2959a976a7af2:
+    span:
+      start: 807282
+      end: 808300
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  ebbcaa3bf7ea4c7399c48d5cb72f29c7:
+    span:
+      start: 808302
+      end: 809336
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  78764660b08f4888b4b1c05adbce9d88:
+    span:
+      start: 809338
+      end: 810409
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  1eda9b055da44dc7858c56b1944eba37:
+    span:
+      start: 810411
+      end: 811422
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  88063831e34c4df682eb8404432ff985:
+    span:
+      start: 811424
+      end: 812562
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  fa0da047f4344405828bbdd05643fdb3:
+    span:
+      start: 812564
+      end: 813568
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  c4f477eefd5242c78e2140d843a5635f:
+    span:
+      start: 813570
+      end: 814577
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  8b8982ce7ad049f89c3a7fdaca44e5c3:
+    span:
+      start: 814579
+      end: 815607
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  996c483c46ac4704883cd43393d1216a:
+    span:
+      start: 815609
+      end: 816665
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  eb0ef10717164dde90fcc6e20f18b6c5:
+    span:
+      start: 816667
+      end: 817716
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  2359d03bcdb74125a9bc442dac7971ab:
+    span:
+      start: 817718
+      end: 818755
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  3b7fafe75858428697124bdc7be6175c:
+    span:
+      start: 818757
+      end: 819851
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  d9890138562c4f63bca517d8d111862c:
+    span:
+      start: 819853
+      end: 820938
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  cea22ea0f730400fae33759d38cc12f3:
+    span:
+      start: 820940
+      end: 822011
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  220829978c464d469f8a9266d004bb0f:
+    span:
+      start: 822013
+      end: 823040
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  27a9b687bf49420ab8ef596edc0cce38:
+    span:
+      start: 823042
+      end: 824095
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  753f9e62fca24537842597455838f95a:
+    span:
+      start: 824097
+      end: 825200
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  a9fc33b5ae634eda97cd39fa836f3e4a:
+    span:
+      start: 825202
+      end: 826242
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  83a7684bc97d46a4890968394662b583:
+    span:
+      start: 826244
+      end: 827265
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  745b19d281134fa2aaac205e2aecc50b:
+    span:
+      start: 827267
+      end: 828354
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  d21138f8f3fc4ed8bcafb273916d769e:
+    span:
+      start: 828356
+      end: 829431
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  217d918ab23e446d9c4b2fd06118c02d:
+    span:
+      start: 829433
+      end: 830485
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  3220075a9ead445a900055fe8100603e:
+    span:
+      start: 830487
+      end: 831564
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  f01d3d95f1874099acc53d7cf962eb71:
+    span:
+      start: 831566
+      end: 832601
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  6ac63181ce8e424786e2349595ff9b9b:
+    span:
+      start: 832603
+      end: 833639
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  f5097b4bb3964dc9a936a040fe9ebec5:
+    span:
+      start: 833641
+      end: 834706
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  c535c816310d47f5ab002bfc12040257:
+    span:
+      start: 834708
+      end: 835753
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  16cce81dbbd943fdbd8dc6d18efe0dc2:
+    span:
+      start: 835755
+      end: 836810
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  d4ec504178d64108b035f1d562a5578e:
+    span:
+      start: 836812
+      end: 837862
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  75ddc3a024004667acb8e6eeb4e0fd47:
+    span:
+      start: 837864
+      end: 838933
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  8bc7cf88890f413b8a44a7b720045a36:
+    span:
+      start: 838935
+      end: 839953
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  281a68fe2e934dffa74547624901548d:
+    span:
+      start: 839955
+      end: 841018
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  9d8bb14c97314ce697f5f5b52d945617:
+    span:
+      start: 841020
+      end: 842134
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  8425951941674404b0adde9ea929e5d2:
+    span:
+      start: 842136
+      end: 843155
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  21848f8ec69146aca8ab1462d5df9019:
+    span:
+      start: 843157
+      end: 844204
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  862a3270c75f470c8a14e059ca186b0c:
+    span:
+      start: 844206
+      end: 845197
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  2bddbd520ddc4fb38cbe37fd731d0047:
+    span:
+      start: 845199
+      end: 846209
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  6088a9cb43314a308c1e445e8807c514:
+    span:
+      start: 846211
+      end: 847324
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  ededb9cceefc4c88a1a4a25f516fbb7f:
+    span:
+      start: 847326
+      end: 848312
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  ff3a1024ab524de39d215d7b15c6b85c:
+    span:
+      start: 848314
+      end: 849312
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  a54801f40aa24d18a937c1e73e9d4a6f:
+    span:
+      start: 849314
+      end: 850319
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  b979eeffd3ee427a905ca97500b7c526:
+    span:
+      start: 850321
+      end: 851393
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  1a63e684d0254c0c83b0cb6a53cef507:
+    span:
+      start: 851395
+      end: 852330
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  6d7f841d99ba483a833ac6b12a67ddf3:
+    span:
+      start: 852332
+      end: 853272
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  041942b9c3264de898fcfd62e1e64fe2:
+    span:
+      start: 853274
+      end: 854245
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  142668dfdfc74fc2ac280240874e946a:
+    span:
+      start: 854247
+      end: 855216
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  f054c56c365943e9941a8e70a618458d:
+    span:
+      start: 855218
+      end: 856219
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  021896bf510047a99afb142e2703c7db:
+    span:
+      start: 856221
+      end: 857257
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  8ac08d637d8848deba21ffe89ca686b5:
+    span:
+      start: 857259
+      end: 858266
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  2ce3ff3abe284ab192c9603439bcfa38:
+    span:
+      start: 858268
+      end: 859308
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  420c3cc25dd14a8da54fb3ac63bc53d3:
+    span:
+      start: 859310
+      end: 860447
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  b9f6d8be29d442248b09f76387415a58:
+    span:
+      start: 860449
+      end: 861514
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  d25378ec65fb4ab9aa5a1f9996f45cc6:
+    span:
+      start: 861516
+      end: 862572
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  6ebfd740529b4e45ad125c9e6823cece:
+    span:
+      start: 862574
+      end: 863621
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  12c1269189624ae6a1f579228521a145:
+    span:
+      start: 863623
+      end: 864691
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  761200c570be4c7d9a4488eb685d06e7:
+    span:
+      start: 864693
+      end: 865692
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  d4f509334d8646ab9ede9c5cabeecae5:
+    span:
+      start: 865694
+      end: 866698
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null
+  a5259674b0724b0b9c091bff72c4be47:
+    span:
+      start: 866700
+      end: 867439
+    metadata: {}
+    page_info: null
+    imgnum: null
+    reference: null

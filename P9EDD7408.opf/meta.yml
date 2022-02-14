@@ -1,0 +1,425 @@
+id: P9EDD7408
+initial_creation_type: input
+source_metadata:
+  title: KANGYUR (Tibetan Letters
+  volumes:
+    0311e9ac9c744b11b0853a81101c3f95:
+      title: ༠༡  འདུལ་བ།_KAཀ།
+      base_file: v001.txt
+      work_id: W61D7B551
+    a49ee18b6ae544ff96f3c33e91828ef4:
+      title: ༠༡  འདུལ་བ།_ཀ།
+      base_file: v002.txt
+      work_id: W06370077
+    266feb77c769462bae925a2bbfed0ddb:
+      title: ༠༡  འདུལ་བ།_ཁ།
+      base_file: v003.txt
+      work_id: W17EBA947
+    6b30bf36895f4040bab9e0001f61c2d9:
+      title: ༠༡  འདུལ་བ།_ག
+      base_file: v004.txt
+      work_id: WFA7FFF2F
+    2d6ca304e58b4d4f9821429330b12b4b:
+      title: ༠༡  འདུལ་བ།_ང་།
+      base_file: v005.txt
+      work_id: W2779F0BC
+    63b93f4fd08344c982068bf9e1cfd310:
+      title: ༠༡  འདུལ་བ།_ཅ།
+      base_file: v006.txt
+      work_id: W60523A61
+    663ab4491c0f422f9eebcf44ee817645:
+      title: ༠༡  འདུལ་བ།_ཆ།
+      base_file: v007.txt
+      work_id: W1139FAF4
+    0e7f5b47e8134a11b77879405dc6aabc:
+      title: ༠༡  འདུལ་བ།_ཇ།
+      base_file: v008.txt
+      work_id: W42677D28
+    7b11347d35004a88bd6a27945d13211c:
+      title: ༠༡  འདུལ་བ།_ཉ།
+      base_file: v009.txt
+      work_id: W06C4E2E6
+    57976a3f41db4cc28c619d296f7316b7:
+      title: ༠༡  འདུལ་བ།_ཏ།
+      base_file: v010.txt
+      work_id: WEE3ECAAE
+    cb8abc32598c4099921ee08ede0e7faa:
+      title: ༠༡  འདུལ་བ།_ཐ།
+      base_file: v011.txt
+      work_id: W6BA2652A
+    0ea789e0257f4be7b6b716b77f1890f6:
+      title: ༠༡  འདུལ་བ།_ད།
+      base_file: v012.txt
+      work_id: WF4FD7D7F
+    520f5be9e6db428dbe46e84f1b649e79:
+      title: ༠༡  འདུལ་བ།_ན།
+      base_file: v013.txt
+      work_id: W3D38010D
+    e0c9212c035d437daa458a8969b2617b:
+      title: ༠༡  འདུལ་བ།_པ།
+      base_file: v014.txt
+      work_id: W73021B3F
+    95107f6a2233498198bda2b34abd3c9c:
+      title: ༠༢  འབུམ།_ཀ།
+      base_file: v015.txt
+      work_id: W09195BE5
+    010cfd7ab1224c39a36b86534526d30d:
+      title: ༠༢  འབུམ།_ཁ།
+      base_file: v016.txt
+      work_id: WF0C3B0C9
+    c24a19e85f9e4569acaddbe115a59102:
+      title: ༠༢  འབུམ།_ག
+      base_file: v017.txt
+      work_id: W674ABAF5
+    4e21365bf86648349073d1e226672f09:
+      title: ༠༢  འབུམ།_ང་།
+      base_file: v018.txt
+      work_id: WF59E191F
+    54d84a8942f14c2889234429d0de3b67:
+      title: ༠༢  འབུམ།_ཅ།
+      base_file: v019.txt
+      work_id: W36BED091
+    3abf616f341440de8db9e77778a7f7fa:
+      title: ༠༢  འབུམ།_ཆ།
+      base_file: v020.txt
+      work_id: W07C277C6
+    f008ffe927ab4783a8c91249fa9577e1:
+      title: ༠༢  འབུམ།_ཇ།
+      base_file: v021.txt
+      work_id: W741A7A82
+    5e07ed1204644411b67b4ec584f3beb4:
+      title: ༠༢  འབུམ།_ཉ།
+      base_file: v022.txt
+      work_id: W97B5B709
+    c0a0e0042212428c81d1611c9e3ffaaa:
+      title: ༠༢  འབུམ།_ཏ།
+      base_file: v023.txt
+      work_id: W0995CB3B
+    e3882251877f4067a441c28b9518f547:
+      title: ༠༢  འབུམ།_ཐ།
+      base_file: v024.txt
+      work_id: WEE4C7FFD
+    1dea2389b7884b26bafa3f14aae0010b:
+      title: ༠༢  འབུམ།_ད།
+      base_file: v025.txt
+      work_id: WB34ABC39
+    1bf4a0c97ba34751a8a1e4c3734eb36a:
+      title: ༠༢  འབུམ།_ན།
+      base_file: v026.txt
+      work_id: W5F07233D
+    f0a6e27a9794405b836e3177e1051039:
+      title: ༠༣  ཉི་ཁྲི།_ཀ།
+      base_file: v027.txt
+      work_id: W3859D876
+    2b2a710ab87647e2b7b2216eb6d9ae69:
+      title: ༠༣  ཉི་ཁྲི།_ཁ།
+      base_file: v028.txt
+      work_id: W9D7ADDAA
+    077c9b0d9a654234831f6c358f16094c:
+      title: ༠༣  ཉི་ཁྲི།_ག
+      base_file: v029.txt
+      work_id: W718EDE77
+    c2b48f03def44665bbc4923bc3349a9a:
+      title: ༠༤  བརྒྱད་སྟོང་།_ཀ།
+      base_file: v030.txt
+      work_id: W95EAD990
+    7952425d9ea4482087f9d49ddaa13713:
+      title: ༠༥  ཁྲི་བརྒྱད་སྟོང་།_ཀ།
+      base_file: v031.txt
+      work_id: WF7ABA4D6
+    eb6f8615d3184269bd9f84339a87dbf9:
+      title: ༠༥  ཁྲི་བརྒྱད་སྟོང་།_ཁ།
+      base_file: v032.txt
+      work_id: W352DB777
+    36eb7553ca0a49f5bef299a7be4d054f:
+      title: ༠༥  ཁྲི་བརྒྱད་སྟོང་།_ག
+      base_file: v033.txt
+      work_id: W25A00A20
+    56253a94f98248eb89a585fbefd3e334:
+      title: ༠༦  ཁྲི་པ།_ཀ་  པརྟ་ཏྭོ།
+      base_file: v034.txt
+      work_id: WCF5EDD12
+    1ee0109df2dc49f08bf3da3074dd0036:
+      title: ༠༦  ཁྲི་པ།_ག་  པརྟ་ཨྣེ། ཅོནྟིནུཨྡ་རོམ་པྲེིཨུས་སེཅྟིཨྣ།
+      base_file: v035.txt
+      work_id: W49019173
+    b90b6074e10644c2923953bed0d65eca:
+      title: ༠༧  ཤེར་ཕྱིན་སྣ་ཚོགས།_ཀ།
+      base_file: v036.txt
+      work_id: W7204407B
+    7f2c52b8d4c449cf80766567de3173d2:
+      title: ༠༨  དཀོན་བརྩེགས།_ཀ།
+      base_file: v037.txt
+      work_id: W48666CF5
+    ebc5b555552c4ab5913095f2ca5be667:
+      title: ༠༨  དཀོན་བརྩེགས།_ཁ།
+      base_file: v038.txt
+      work_id: W49524C29
+    65c7ea75f1d94b0e9f5f2a43c4656ab7:
+      title: ༠༨  དཀོན་བརྩེགས།_ག
+      base_file: v039.txt
+      work_id: WB94525EB
+    b5f6891167a549d59f538040f4272658:
+      title: ༠༨  དཀོན་བརྩེགས།_ང་།
+      base_file: v040.txt
+      work_id: WC5B4B2F9
+    ad986e548f0742aca87ac535cc48ee73:
+      title: ༠༨  དཀོན་བརྩེགས།_ཅ།
+      base_file: v041.txt
+      work_id: WB7E7707F
+    974c82afb3a043eba1e647dd4c6a8f17:
+      title: ༠༨  དཀོན་བརྩེགས།_ཆ།
+      base_file: v042.txt
+      work_id: W379930E4
+    cdd758d83b9342d687e315e3d4f4fcee:
+      title: ༠༩  ཕལ་ཆེན།_ཀ།
+      base_file: v043.txt
+      work_id: W0711B93C
+    9046e253c5254be7b8103f27fb7566fe:
+      title: ༠༩  ཕལ་ཆེན།_ཁ།
+      base_file: v044.txt
+      work_id: W4B1EBC97
+    0129b549235a4846b82af1ff0176d43c:
+      title: ༠༩  ཕལ་ཆེན།_ག
+      base_file: v045.txt
+      work_id: WD86F4564
+    a4bc7f027c82408bbee099178706ca4d:
+      title: ༠༩  ཕལ་ཆེན།_ང་།
+      base_file: v046.txt
+      work_id: W2DFD050E
+    f8ebcd793aac408b9ee627b4910d5d7b:
+      title: ༠༩  ཕལ་ཆེན།_ཅ།
+      base_file: v047.txt
+      work_id: W7011101F
+    f865d1e814994ecba6d9545aee517c5f:
+      title: ༠༩  ཕལ་ཆེན།_ཆ།
+      base_file: v048.txt
+      work_id: W32B104A2
+    cac590d1b54741e9bcee05c3ab501ef6:
+      title: ༡༠  མདོ་མང་།_ཀ།
+      base_file: v049.txt
+      work_id: W63E49826
+    124beb3b33484a5492a7e8d780b91696:
+      title: ༡༠  མདོ་མང་།_ཁ།
+      base_file: v050.txt
+      work_id: W2596CB6E
+    88652d04984b4f2aafa053efa872cfe5:
+      title: ༡༠  མདོ་མང་།_ག
+      base_file: v051.txt
+      work_id: W35835A66
+    98bf7a10180b48e1a1422f85658b84db:
+      title: ༡༠  མདོ་མང་།_ང་།
+      base_file: v052.txt
+      work_id: W1D3E9D94
+    76b102fc8a354003a93973a3a3c392b2:
+      title: ༡༠  མདོ་མང་།_ཅ།
+      base_file: v053.txt
+      work_id: WD21A4D94
+    afbec3271f744a6494183d2ab67eb71a:
+      title: ༡༠  མདོ་མང་།_ཆ།
+      base_file: v054.txt
+      work_id: WB945226D
+    46aadf536ed442199a4ff6eb56e040a4:
+      title: ༡༠  མདོ་མང་།_ཇ།
+      base_file: v055.txt
+      work_id: W6404BB98
+    39c1929304684b53a82cf0cff16da791:
+      title: ༡༠  མདོ་མང་།_ཉ།
+      base_file: v056.txt
+      work_id: W000A625E
+    a931a77631464e3581a13b97a787b68a:
+      title: ༡༠  མདོ་མང་།_ཏ།
+      base_file: v057.txt
+      work_id: W61816D8E
+    b85f042bfe4a40fe963f4ea7deed8c9b:
+      title: ༡༠  མདོ་མང་།_ཐ།
+      base_file: v058.txt
+      work_id: WFC33F014
+    8fc3087d0b7140d1a067ff7e1e6d3f0b:
+      title: ༡༠  མདོ་མང་།_ད།
+      base_file: v059.txt
+      work_id: WE23BC011
+    858b542cf3d647ae8304d883b06ebe10:
+      title: ༡༠  མདོ་མང་།_ན།
+      base_file: v060.txt
+      work_id: WF43D2DD5
+    070fbc5f864e47edabfe4690bd6c5f2b:
+      title: ༡༠  མདོ་མང་།_པ།
+      base_file: v061.txt
+      work_id: W00510CB7
+    eafdd520215342ed916c9b161defc22b:
+      title: ༡༠  མདོ་མང་།_ཕ།
+      base_file: v062.txt
+      work_id: WD01A9402
+    b5c9053b5cdf45db946c666d8b917128:
+      title: ༡༠  མདོ་མང་།_བ།
+      base_file: v063.txt
+      work_id: W4501509D
+    3a499c8516e24ff895d1e13a77e7b58c:
+      title: ༡༠  མདོ་མང་།_མ།
+      base_file: v064.txt
+      work_id: W59446B54
+    9be2d217f0d145c0a0ea7727a152e71c:
+      title: ༡༠  མདོ་མང་།_ཙ།
+      base_file: v065.txt
+      work_id: W0DFFE350
+    f352c51a827547d3bf8f1a9676baab81:
+      title: ༡༠  མདོ་མང་།_ཚ།
+      base_file: v066.txt
+      work_id: WD54D0064
+    a607d6b4902d4f7abdf1966e8652bbd6:
+      title: ༡༠  མདོ་མང་།_ཛ།
+      base_file: v067.txt
+      work_id: W7B07710E
+    6468cd797da04446a8886e2e7ed8c21c:
+      title: ༡༠  མདོ་མང་།_ཝ།
+      base_file: v068.txt
+      work_id: WA51CEADC
+    e11ce6b59fe94e61ac4fd75acc5d8414:
+      title: ༡༠  མདོ་མང་།_ཞ།
+      base_file: v069.txt
+      work_id: WFEFD46C5
+    6cf550f804b14204b117927c6165e1f7:
+      title: ༡༠  མདོ་མང་།_ཟ།
+      base_file: v070.txt
+      work_id: WC3744E67
+    d2429ae585e54cb385bfd0a16e05d634:
+      title: ༡༠  མདོ་མང་།_འ།
+      base_file: v071.txt
+      work_id: W824720E4
+    b63cf62e33d34e34aea2a7f0fc27fc70:
+      title: ༡༠  མདོ་མང་།_ཡ།
+      base_file: v072.txt
+      work_id: W54455F52
+    e7d992ee72b84b4cbb5e624b439ebf06:
+      title: ༡༠  མདོ་མང་།_ར།
+      base_file: v073.txt
+      work_id: W51E52547
+    0d8502766c06473aafb47346d6a25861:
+      title: ༡༠  མདོ་མང་།_ལ།
+      base_file: v074.txt
+      work_id: WA5A8F9CA
+    48baee955c9d482e8a519c26201d2513:
+      title: ༡༠  མདོ་མང་།_ཤ།
+      base_file: v075.txt
+      work_id: WFDD3DB3B
+    603ac6e27fda4d51bfb0deedebdd9bd1:
+      title: ༡༠  མདོ་མང་།_ས།
+      base_file: v076.txt
+      work_id: W16D2C22E
+    cc46ea5c62d34c2fb22bf2ffc53105bc:
+      title: ༡༠  མདོ་མང་།_ཧ།
+      base_file: v077.txt
+      work_id: WFBB69160
+    9ee78508acb54bf7800ed3987901dc91:
+      title: ༡༠  མདོ་མང་།_ཨ།
+      base_file: v078.txt
+      work_id: W485AD0C6
+    b78c759b07d44e11bd83b941a9618b84:
+      title: ༡༡  མྱང་འདས།_ཏ།
+      base_file: v079.txt
+      work_id: W037C5644
+    61f699ae10374f0b9f8a3dfb6b7e4288:
+      title: ༡༢  རྒྱུད།_ཀ།
+      base_file: v080.txt
+      work_id: WED48EE7B
+    582a4bfb778f46eda8de942b4cdf42a7:
+      title: ༡༢  རྒྱུད།_ཁ།
+      base_file: v081.txt
+      work_id: W9593E99B
+    11306861f3834837b1a211e1ee0a4e91:
+      title: ༡༢  རྒྱུད།_ག
+      base_file: v082.txt
+      work_id: W61AF1795
+    d293cb1685dd4c95802208372feb2679:
+      title: ༡༢  རྒྱུད།_ང་།
+      base_file: v083.txt
+      work_id: WD0A6AAA4
+    71b02c4fd1744e21a013895f23de519b:
+      title: ༡༢  རྒྱུད།_ཅ།
+      base_file: v084.txt
+      work_id: W52797427
+    f7dfcb2e69a94c21b9485a1217abad34:
+      title: ༡༢  རྒྱུད།_ཆ།
+      base_file: v085.txt
+      work_id: WB71767BD
+    4d88794932014c8287da23e1eb9ac693:
+      title: ༡༢  རྒྱུད།_ཇ།
+      base_file: v086.txt
+      work_id: WB8BB3398
+    49d300ea440143e1bb26a17b69bd0792:
+      title: ༡༢  རྒྱུད།_ཉ།
+      base_file: v087.txt
+      work_id: WC32BB979
+    ef3f3564aab145afac71aab2c8344712:
+      title: ༡༢  རྒྱུད།_ཏ།
+      base_file: v088.txt
+      work_id: W56131414
+    0717af2102db49ab9c3b612795e541b5:
+      title: ༡༢  རྒྱུད།_ཐ།
+      base_file: v089.txt
+      work_id: W5CDCECF3
+    3e8b3c05e7454ad49cce84a2aced2632:
+      title: ༡༢  རྒྱུད།_ད།
+      base_file: v090.txt
+      work_id: W49CEAFD0
+    6462ecef68e042cc9a83150c4c2e9a17:
+      title: ༡༢  རྒྱུད།_ན།
+      base_file: v091.txt
+      work_id: W3BFFA4A7
+    55b265b90f49448bb95f9f018b82a692:
+      title: ༡༢  རྒྱུད།_པ།
+      base_file: v092.txt
+      work_id: WAEBD6F87
+    4b24f324c6a042f39557853b14b665c2:
+      title: ༡༢  རྒྱུད།_ཕ།
+      base_file: v093.txt
+      work_id: W225C26F2
+    3e50c3152b30413da782cf2de37d6c2b:
+      title: ༡༢  རྒྱུད།_བ།
+      base_file: v094.txt
+      work_id: W3303BB32
+    d628fbf4280b4a7f8cda2c8ad1b0e0be:
+      title: ༡༢  རྒྱུད།_མ།
+      base_file: v095.txt
+      work_id: W16178E61
+    44bbd3f585ed46c4be918073ea7b224c:
+      title: ༡༢  རྒྱུད།_ཙ།
+      base_file: v096.txt
+      work_id: W52EE2D2D
+    d1f202420c68478986c084481ce0725e:
+      title: ༡༢  རྒྱུད།_ཚ།
+      base_file: v097.txt
+      work_id: W399332FB
+    e5e6eb05eb464328a4156e6b5be1ec86:
+      title: ༡༢  རྒྱུད།_ཛ།
+      base_file: v098.txt
+      work_id: WA981A534
+    37044a177b0249c691e8ebc5593eb2d9:
+      title: ༡༢  རྒྱུད།_ཝ།
+      base_file: v099.txt
+      work_id: W05560B0D
+    e149ae23de25429dbfca9ac78a081290:
+      title: ༡༢  རྒྱུད།_ཞ།
+      base_file: v100.txt
+      work_id: WDBD9874F
+    efa37741786444f092c1bea78dc6c204:
+      title: ༡༣  དཀར་ཆག_ཏ།
+      base_file: v101.txt
+      work_id: WDBAB6490
+  work_id_vol:
+    WD4284290: ༠༡  འདུལ་བ།
+    WDDB65CFA: ༠༢  འབུམ།
+    W12876B09: ༠༣  ཉི་ཁྲི།
+    W875FA184: ༠༤  བརྒྱད་སྟོང་།
+    WB434DBCA: ༠༥  ཁྲི་བརྒྱད་སྟོང་།
+    W04FC6C82: ༠༦  ཁྲི་པ།
+    W3927833F: ༠༧  ཤེར་ཕྱིན་སྣ་ཚོགས།
+    W0AF4A78F: ༠༨  དཀོན་བརྩེགས།
+    WB90A8434: ༠༩  ཕལ་ཆེན།
+    W897F0F0F: ༡༠  མདོ་མང་།
+    WA31799A5: ༡༡  མྱང་འདས།
+    W84BEE0BF: ༡༢  རྒྱུད།
+    W0EFE4A0A: ༡༣  དཀར་ཆག
+created_at: '2022-02-14T10:54:13.531329'
+last_modified_at: '2022-02-14T10:54:13.531341'
